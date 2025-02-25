@@ -1,14 +1,25 @@
-title: Your awesome title
-author:
-  name: GitHub User
-  email: your-email@domain.com
+title: The Heron Center
+tagline: We foster wellness, creativity, and sustainability
+description: >
+  Founded in 2011, We are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit. 
+url: 
+  
+facebook:
+  app_id:
+  publisher:
+  admins:
+
+logo: 
+social:
+  name: The Heron Center
+  links:
+    - https://youtube.com/@theheroncenter
+    - https://www.instagram.com/theheroncenter
+    - https://www.facebook.com/theheroncenter
+
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  Write an awesome description for your new site here. You can edit this line
-  in _config.yml. It will appear in your document head meta (for Google search
-  results) and in your feed.xml site description.
 
 # Build settings
 
@@ -29,7 +40,14 @@ plugins:
 # If you want to link only specific pages in your header, use this and add the path to the pages
 # in order as they should show up.
 header_pages:
+  - index.md
   - about.md
+  - programs.md
+  - events.md
+  - classes.md
+  - rentals.md
+  - ways-to-give.md
+  - donate.md
 
 # Minima specific settings, which are only available from Minima 3.0 onward.
 minima:

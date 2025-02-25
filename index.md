@@ -1,9 +1,8 @@
 ---
-#
-# By default, content added below the "---" mark will appear in the home page
-# between the top bar and the list of recent posts.
-# To change the home page layout, edit the _layouts/home.html file.
-# See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-#
 layout: home
+title: The Heron Center
+description: >
+Founded in 2011, we are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit. 
+image: 
+permalink: /
 ---
