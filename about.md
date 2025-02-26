@@ -78,10 +78,10 @@ Lisa Esten, Jessica Howard & Majd Mouded
 
 We have two locations; The Studio in Fall River & The Wildlife Sanctuary in Westport. 
 
-## The Studio in Fall River
+## [The Studio in Fall River](/the-studio/)
 187 Plymouth Avenue, Fall River, MA 02721
 
-## The Wildlife Sanctuary in Westport
+## [The Wildlife Sanctuary in Westport](/wildlife-sanctuary/)
 179 Legacy Lane, Westport, MA 02790
 
 

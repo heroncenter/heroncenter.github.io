@@ -3,6 +3,7 @@ layout: post
 title: "School of Yoga and Meditation"
 categories: programs
 description:
+subtitle:
 permalink: /programs/school-of-yoga-and-meditation/
 ---
 

@@ -8,13 +8,29 @@ permalink: /spaces/
 
 # Wildlife Sanctuary
 
+## Protecting our natural world is essential to our survival.  Beyond that, it is the source for inspiration and beauty. 
+
 Since 2012 the Squillante Family Trust has bequeathed our mission with 22 acres in Westport MA. The land we work with is part of a magical Riparian Biome. Riparian biomes are essential ecosystems that support clean air, water and protection from erosion and flooding. We have partnered with N.R.C.S. to implement a Forest Management Plan to enhance ecology, augment conservation practices, and support our pollinators.
+
+
+Since 2012 the Squillante Family Trust has bequeathed our mission with 22 acres in Westport MA. The land we work with is part of a magical Riparian Biome. Riparian biomes are essential ecosystems that support clean air, water and protection from erosion and flooding. We have partnered with N.R.C.S. to implement a Forest Management Plan to enhance ecology, augment conservation practices, and support our pollinators.
+
+
+Education is an integral part of ensuring sustainability and wellness
+Our Center provides Free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences.
+
+
+### Address: 
+179 Legacy Ln, Westport MA 02790
+
+### When to Visit / Open Hours: **We are only open during scheduled programs, classes or events.** 
 
 # The Studio
 
 
 ## The Studio is home to diverse educational programs, classes and events that support our mission.
 
+The Studio is home to diverse educational programs, classes and events that support our mission.
 Located on the first floor of the Historic Durfee Mills, our studio atmosphere is bright, spacious and welcoming. We first opened our doors in October of 2011 and feel blessed to remain part of the SouthCoast Community.
 
 ### What’s inside?
@@ -31,4 +47,4 @@ First Floor, First Door on left upon entry
 
 We are only open during scheduled programs, classes or events. Please visit our dedicated pages to learn more.
 
-### Want to Rent our Space: Learn more.
+

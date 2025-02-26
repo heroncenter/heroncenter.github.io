@@ -42,6 +42,7 @@ plugins:
 header_pages:
   - index.md
   - about.md
+  - spaces.md
   - programs.md
   - events.md
   - classes.md

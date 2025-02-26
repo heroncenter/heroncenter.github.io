@@ -3,6 +3,7 @@ layout: post
 title: "Artist in Residence"
 categories: programs
 description:
+subtitle:
 permalink: /programs/artist-in-residence/
 ---
 

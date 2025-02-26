@@ -6,35 +6,32 @@ image:
 permalink: /rentals/
 ---
 
-
-Rentals
 Want to book our space?
 
 Rentals are available to artists, healing arts practitioners and members for personal use and for public and or private services.
 
 We have multiple venue options:
 
-The Studio Space in Fall River:
+## [The Studio Space in Fall River](/the-studio/):
 
     Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22’x40’)
     Massage room 160 sq ft
     Meditation or multi-use room; 440sqft
 
-Wildlife Sanctuary in Westport (22 acres of Riparian Biome with fields, meadows, trails, wildlife ponds and more to explore): 
+## [Wildlife Sanctuary in Westport](/wildlife-sanctuary/):
 
+    22 acres of Riparian Biome with fields, meadows, trails, wildlife ponds and more to explore)
     The Yurt (round house) in Westport (452 sqft / 24 ft in circumference)
     The Tiered Garden Stage in Westport (upper stage 6×8 and lower concrete patio 22×44)
 
-Please fill out our Booking Request Form 
+Please fill out our [Booking Request Form]() 
 
-RATES
+## Rates
 
-$44 for 120 minutes | $22 each additional hour
+**Members**: $44 for 120 minutes | $22 each additional hour
+**Non-Members**: $22 for 120 minutes | $11 each additional hour
 
-$22 for 120 minutes | $11 each additional hour
-(Member & nonprofit pricing)
-
-*rates may vary depending on use and location, individual contracts apply.
+* Rates may vary depending on use and location, individual contracts apply.
 Interested parties must contact us directly and may require in person meeting before space will be made available.*
 
 Email us with your inquiries; Theheroncenter@gmail.com

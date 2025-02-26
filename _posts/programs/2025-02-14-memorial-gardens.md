@@ -3,7 +3,7 @@ layout: post
 title: "Memorial Gardens"
 categories: programs
 description:
-description:
+subtitle:
 permalink: /programs/memorial-gardens/
 ---
 

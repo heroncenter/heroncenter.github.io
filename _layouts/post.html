@@ -6,33 +6,39 @@ layout: base
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: date_format }}
-      </time>
-      {%- if page.modified_date -%}
-        ~ 
-        {%- assign mdate = page.modified_date | date_to_xmlschema -%}
-        <time class="dt-modified" datetime="{{ mdate }}" itemprop="dateModified">
-          {{ mdate | date: date_format }}
-        </time>
+      <time class="dt-published"> {{ page.when }}</time>
+      {%- if page.contact -%}
+          <span itemprop="author">
+            <span class="p-author h-card">Contact {{ contact }}</span>
+          </span>
       {%- endif -%}
-      {%- if page.author -%}
-        • {% for author in page.author %}
-          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
-            {%- if forloop.last == false %}, {% endif -%}
-        {% endfor %}
-      {%- endif -%}</p>
+
+      {%- if page.yurt-%}
+          <span>
+            <span class="p-author h-card">The Yurt at our Wildlife Sanctuary is accessible by stairs only. When temps drop below 25 degrees or if it is snowing, classes are automatically canceled.</span>
+          </span>
+      {%- endif -%}
+
+      {%- if page.location=="fall river"-%}
+          <span>
+            <span class="p-author h-card">187 Plymouth Ave, Fall River MA * Durfee Mills * Building 8, Entrance 8A * First Floor, First Door on left upon entry</span>
+          </span>
+      {%- elsif page.location=="westport"-%}
+            <span>
+            <span class="p-author h-card">179 Legacy Ln, Westport Ma 02790</span>
+          </span>
+      {%- endif -%}
+
+      {%- if page.tuition-%}
+          <span itemprop="author">
+            <span class="p-author h-card">{{ tuition }}</span>
+          </span>
+      {%- endif -%}
+    </p>
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
   </div>
-
-  {%- if site.disqus.shortname -%}
-    {%- include disqus_comments.html -%}
-  {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>

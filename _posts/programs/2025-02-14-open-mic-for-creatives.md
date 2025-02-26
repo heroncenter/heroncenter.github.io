@@ -3,6 +3,7 @@ layout: post
 title: "Open Mic For Creatives"
 categories: programs
 description:
+subtitle:
 permalink: /programs/open-mic/
 ---
 

@@ -3,6 +3,7 @@ layout: post
 title: "Spiritual Guidance"
 categories: programs
 description:
+subtitle:
 permalink: /programs/spiritual-guidance/
 ---
 
