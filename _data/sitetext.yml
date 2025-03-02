@@ -17,8 +17,8 @@ en: &DEFAULT_EN
     buttonlink: "/about/"
 
   services:
-    title: ""
-    text: "Lorem ipsum"
+    title: "Get Involved"
+    text: "Join us every day and throughout the year through community programs, events, and classes"
     section: services
     list:
       - title: "Programs"
@@ -27,7 +27,7 @@ en: &DEFAULT_EN
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "Events"
         link: "/events/"
-        desc: "Experiences that Educate, Empower and Inspirit"
+        desc: "Celebrate creativity and nature during our recurring experiences that educate, empower and inspire"
         icon: fas fa-laptop
       - title: "Classes"
         link: "/classes/"

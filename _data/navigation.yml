@@ -15,14 +15,16 @@ en: &DEFAULT_EN
       url: /about/
     - title: "Spaces"
       url: /spaces/
+    - title: "Partners"
+      url: /partners/
     - title: "Programs"
       url: /programs/
     - title: "Events"
       url: /events/
     - title: "Classes"
       url: /classes/
-    - title: "Ways To Give"
-      url: /ways-to-give/
+    - title: "Support"
+      url: /support/
 en-US:
   <<: *DEFAULT_EN
 en-CA:

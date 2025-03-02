@@ -1,53 +1,86 @@
 ---
 layout: page
 permalink: /about/
+title: Classes
+description: 
+image: 
 ---
-# Our Mission
+# About The Heron Center
 
-## We foster wellness, creativity and sustainability.
+Founded in 2011, we are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit.
 
-We support sustainability by honoring Nature’s ecosystems through educational campaigns, land stewardship opportunities, conservation practices, habitat enhancement and pollinator friendly gardens.
+## Learn More
+- [Our Mission](#mission)
+- [Our Vision](#vision)
+- [Our Values](#values)
+- [Our Story](#story)
+- [Board Members](#board)
+- [Contact Us](#contact)
 
-We cultivate creativity through community arts and cultural events, provide artist residencies, performance opportunities and art-based programs.
+---
+<a id="mission"></a>
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">Our Mission</h2>
+	  <h3 class="section-subheading text-muted">We foster wellness, creativity, and sustainability</h3>
+	</div>
+  </div>
+</div>
 
-We connect and empower communities and individuals to wellness through equitable educational programs that include yoga, meditation, mindfulness, spirituality, creative arts, volunteering and passive recreation.
+**Nature**: We support sustainability by honoring Nature’s ecosystems through educational campaigns, land stewardship opportunities, conservation practices, habitat enhancement and pollinator friendly gardens.
 
-# Our Vision
+**Culture**: We cultivate creativity through community arts and cultural events, provide artist residencies, performance opportunities and art-based programs.
 
-## A world in which humans live in harmony with Nature.
-Harmony is a reciprocal state of balance that nurtures joyful acceptance and recognizes the essential interconnection among all.
+**Wellness**: We connect and empower communities and individuals to wellness through equitable educational programs that include yoga, meditation, mindfulness, spirituality, creative arts, volunteering and passive recreation.
 
-## Empowered People, Empower People
+---
+<a id="vision"></a>
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">Our Vision</h2>
+	  <h3 class="section-subheading text-muted">A world in which humans live in harmony with nature</h3>
+	</div>
+  </div>
+ </div>
 
-# Our Values
+Harmony is a reciprocal state of balance that nurtures joyful acceptance and recognizes the essential interconnection among all. We believe that **Empowered People, Empower People.**
 
-## Educational Center for the Human Spirit
+---
+<a id="values"></a>
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">Our Values</h2>
+	  <h3 class="section-subheading text-muted">Education Drives Sustainability</h3>
+	</div>
+  </div>
+ </div>
 
-Our programming philosophy is based on the concept that there is no “one size fits all approach to wellness or learning.” Following in the footsteps of the Chinese philosopher Lao Tzu, in adhering to the simple concept that, “Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime”. We empower individuals by ensuring education is the principal thread within all that we weave.
+As an educational center for the human spirit, our programming philosophy is based on the concept that there is no “one size fits all approach to wellness or learning.” Following in the footsteps of the Chinese philosopher Lao Tzu, in adhering to the simple concept that, “Give a man a fish and you feed him for a day. Teach him how to fish and you feed him for a lifetime”. We empower individuals by ensuring education is the principal thread within all that we weave.
 
 We beleive in multi-generational experiences and providing safe and inclusive spaces for learning.
 
-## Education Drives Sustainability
-
+---
+<a id="story"></a>
 {% include timeline.html %}
+
+---
+<a id="board"></a>
 {% include team.html %}
 
-# Org Documents
-
-- 2024: [Annual Report]()
-- 2023: [Annual Report]()
-
-
+---
+<a id="contact"></a>
 # Contact Us
 
 We have two locations; The Studio in Fall River & The Wildlife Sanctuary in Westport. 
 
-## [The Studio in Fall River](/spaces#the-studio/)
+## [The Studio in Fall River](/spaces#fall-river/)
 187 Plymouth Avenue, Fall River, MA 02721
 
-## [The Wildlife Sanctuary in Westport](/spaces#/)
+## [The Wildlife Sanctuary in Westport](/spaces#westport/)
 179 Legacy Lane, Westport, MA 02790
-
 
 Phone: 774-264-0786
 Mailing Address: 179 Legacy Lane, Westport, MA 02790
@@ -58,4 +91,8 @@ Email:theheroncenter@gmail.com
 Ashley Gallagher, Program Manager
 Email: outreach.theheroncenter@gmail.com
 
-Email Subscription: https://theheronstudio.us21.list-manage.com/subscribe?u=a882ee25d41f8893f7adbdaec&id=273692ff6f
+<br />
+<br />
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://theheronstudio.us21.list-manage.com/subscribe?u=a882ee25d41f8893f7adbdaec&id=273692ff6f">Subscribe to Our Newsletter</a>
+<br />
+<br />

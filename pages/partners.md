@@ -1,11 +1,11 @@
 ---
 layout: page
-title: In The Community
+title: Partners
 description: 
 image: 
-permalink: /community/
+permalink: /partners/
 ---
-# In The Community
+# Community Partners
 
 
 ## Community Focus and Collaborations
