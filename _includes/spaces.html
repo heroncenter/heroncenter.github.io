@@ -1,0 +1,63 @@
+<!-- spaces -->
+{% if site.locale and site.locale != "" and site.locale != nil %}
+  <section class="page-section" id="{{ site.data.sitetext[site.locale].spaces.section | default: "spaces" }}">
+    <div class="container">
+  
+      <div class="row">
+        <div class="col-lg-12 text-center">
+          <h2 class="section-heading text-uppercase">{{ site.data.sitetext[site.locale].spaces.title | default: "spaces" }}</h2>
+          {% if site.data.sitetext[site.locale].spaces.text %}
+      <h3 class="section-subheading text-muted">{{ site.data.sitetext[site.locale].spaces.text }}</h3>
+      {% endif %}
+        </div>
+      </div>
+    
+      <div class="row text-center">
+    {% for space in site.data.sitetext[site.locale].spaces.list %}
+        <div class="col-md-4">
+          <a href="{{ space.link }}">
+          <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary"></i>
+            <i class="fa-stack-1x fa-inverse"></i>
+          </span>
+        </a>
+        <a href="{{ space.link }}">
+          <h4 class="space-heading">{{ space.title | markdownify }}</h4>
+        </a>
+          {% if space.desc %}<div class="text-muted">{{ space.desc | markdownify }}</div>{% endif %}
+        </div>
+    {% endfor %}
+      </div>
+    
+    </div>
+  </section>
+{% else %}
+<section class="page-section" id="{{ site.data.sitetext.spaces.section | default: "spaces" }}">
+  <div class="container">
+
+    <div class="row">
+      <div class="col-lg-12 text-center">
+        <h2 class="section-heading text-uppercase">{{ site.data.sitetext.spaces.title | default: "spaces" }}</h2>
+        {% if site.data.sitetext.spaces.text %}
+    <h3 class="section-subheading text-muted">{{ site.data.sitetext.spaces.text }}</h3>
+    {% endif %}
+      </div>
+    </div>
+  
+    <div class="row text-center">
+  {% for space in site.data.sitetext.spaces.list %}
+      <div class="col-md-4">
+        <span class="fa-stack fa-4x">
+          <i class="fas fa-circle fa-stack-2x text-primary"></i>
+          <i class="{{ space.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+        </span>
+        <h4 class="space-heading">{{ space.title | markdownify }}</h4>
+        {% if space.desc %}<div class="text-muted">{{ space.desc | markdownify }}</div>{% endif %}
+      </div>
+  {% endfor %}
+    </div>
+  
+  </div>
+</section>
+{% endif %}
+<!-- End spaces -->

@@ -1,0 +1,64 @@
+<!-- Portfolio Modals -->
+{% for project in site.portfolio %}
+<div
+  class="portfolio-modal modal fade"
+  id="p{{ forloop.index }}"
+  tabindex="-1"
+  role="dialog"
+  aria-hidden="true"
+>
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl"></div>
+        </div>
+      </div>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 mx-auto">
+            <div class="modal-body">
+              <!-- Project Details Go Here -->
+              <h2 class="text-uppercase">{{ project.title }}</h2>
+              <p class="item-intro text-muted">{{ project.when }}</p>
+
+              {%- if project.contact -%}
+              <p class="item-intro text-muted">Contact {{ project.contact }}</p>
+              {%- endif -%}
+
+              {%- if project.location=="fall river"-%}
+          <p class="item-intro text-muted">Location: 187 Plymouth Ave, Fall River MA 02721* Durfee Mills * Building 8, Entrance 8A * First Floor, First Door on left upon entry</p>
+      {%- elsif project.location=="westport"-%}
+            <p class="item-intro text-muted">Location: 179 Legacy Lane, Westport MA 02790</p>
+      {%- endif -%}
+
+      {%- if project.yurt-%}
+            <p class="item-intro text-muted">The Yurt at our Wildlife Sanctuary is accessible by stairs only. When outdoor temperatures drop below 25 degrees or if it is snowing, classes are automatically canceled.</p>
+      {%- endif -%}
+      {%- if project.tuition-%}
+          <p class="item-intro text-muted">Cost: {{ project.tuition }}</p>
+      {%- endif -%}
+              <img
+                class="img-fluid d-block mx-auto"
+                src="{{ project.image }}"
+                alt="{{ project.alt }}"
+              />
+              <p>{{ project.content }}</p>
+              <button
+                class="btn btn-primary"
+                data-dismiss="modal"
+                type="button"
+              >
+                <i class="fas fa-times"></i>
+                {{ site.data.sitetext[site.locale].portfolio.closebutton |
+                default: "Close Project" }}
+              </button>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+{% endfor %}
+<!-- End Portfolio Modals -->
