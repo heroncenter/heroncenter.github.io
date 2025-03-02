@@ -1,6 +1,6 @@
 # Staging Site for The Heron Center
 
-This repository holds the source code for The Heron Center staging cite.
+This repository holds the source code for The Heron Center staging site.
 
 ## About
 
