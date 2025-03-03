@@ -40,8 +40,7 @@ Philosophy of The Eight Guided Paths Spiritual Guidance Center, Charitable Trust
 ### Choose your level:
 Membership Levels are inspired by the Keystone Species. Just as Keystone Species are essential to our Earth’s ecosystems, your support is vital to our mission. Learn about the different benefits below and what your Membership & Sustaining Membership is supporting! Toggle a Membership Level to learn more.
 
-<details>
-	<summary><h4>Aster Level ($5/Month or $60/yearly)</h4></summary>
+<details><summary><h4>Aster Level ($5/Month or $60/yearly)</h4></summary>
 	<ul>
 <li>FREE access to the Wildlife Sanctuary and exclusively the Treehouse Yurt (when not booked for programs). Visit daily from dawn to dusk – all year round. For personal use of Treehouse Yurt, please contact us to ensure space is available. Winter availability is limited.</li>
 <li>Free T-Shirt</li>
@@ -51,25 +50,22 @@ Membership Levels are inspired by the Keystone Species. Just as Keystone Species
 </ul>
 </details>
 
-<details>
-	<summary><h4>Goldenrod Level ($10/Month or $120/yearly) </h4></summary>
+<details><summary><h4>Goldenrod Level ($10/Month or $120/yearly) </h4></summary>
 <ul>
 <li>Same as Aster Level</li>
 <li>10% Discount on Space Rentals</li>
 	</ul>
 </details>
 
-<details>
-	<summary><h4>Sunflower Level ($15/Month or $180/yearly)</h4></summary>
+<details><summary><h4>Sunflower Level ($15/Month or $180/yearly)</h4></summary>
 		<ul>
 <li>Same as Aster Level</li>
 <li>20% Discount on Space Rentals</li>
 	</ul>
 </details>
 
-<details>
-	<summary><h4>Willow Level ($30/Month or $360/yearly)</h4></summary>
-		<ul>
+<details><summary><h4>Willow Level ($30/Month or $360/yearly)</h4></summary>
+<ul>
 <li>Same as Sustaining Member Benefits</li>
 <li>Free Tent Camping & or Overnight Retreats in the Treehouse Yurt (when available & by appointment)</li>
 <li>20-50% Discount & may include FREE Access to Eligible Programs hosted by The Heron Center</li>
@@ -80,8 +76,7 @@ Membership Levels are inspired by the Keystone Species. Just as Keystone Species
 </details>
 
 
-<details>
-	<summary><h4>Birch Level  ($45/Month or $540/yearly)</h4></summary>
+<details><summary><h4>Birch Level ($45/Month or $540/yearly)</h4></summary>
 		<ul>
 <li>Same as Willow Level</li>
 <li>15% off partnering organizations / individuals. See the list of participating partners</li>
@@ -89,8 +84,7 @@ Membership Levels are inspired by the Keystone Species. Just as Keystone Species
 	</ul>
 </details>
 
-<details>
-	<summary><h4>Oak Level  ($60/Month or $720/yearly)</h4></summary>
+<details><summary><h4>Oak Level ($60/Month or $720/yearly)</h4></summary>
 		<ul>
 <li>Same as Willow Level</li>
 <li>20% off partnering organizations / individuals. See the list of participating partners</li>
