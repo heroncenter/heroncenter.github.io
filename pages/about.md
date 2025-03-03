@@ -15,7 +15,6 @@ Founded in 2011, we are a Nonprofit 501(c)(3) Charitable Trust dedicated to enri
 - [Our Values](#values)
 - [Our Story](#story)
 - [Board Members](#board)
-- [Contact Us](#contact)
 
 ---
 <a id="mission"></a>

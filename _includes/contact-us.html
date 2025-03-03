@@ -1,0 +1,50 @@
+<!-- Newsletter -->
+<footer class="footer" id="contact" style="background-color: white">
+  <div class="container">
+    <div class="row align-items-center">
+      <div class="col-md-4">
+        <h1>Sign Up For Our Newsletter</h1>
+        <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://theheronstudio.us21.list-manage.com/subscribe?u=a882ee25d41f8893f7adbdaec&id=273692ff6f">Subscribe</a>
+      </div>
+      <!-- Contact Us -->
+      <div class="col-md-4">
+        <h1>Contact Us</h1>
+        <p>Phone: 774-264-0786</p>
+        <p>Mailing Address: 179 Legacy Lane, Westport, MA 02790</p>
+        <br />
+        <p>Jessica Howard, Executive Director</p>
+        <p>Email:theheroncenter@gmail.com</p>
+        <br />
+        <p>Ashley Gallagher, Program Manager</p>
+        <p>Email: outreach.theheroncenter@gmail.com</p>
+      </div>
+      <!-- Locations -->
+      <div class="col-md-4">
+      <h1>Visit Us</h1>
+<p>We have two locations; The Studio in Fall River & The Wildlife Sanctuary in Westport.</p> 
+
+<a href="/spaces#fall-river"><h2>The Studio in Fall River</h2></a>
+<p>187 Plymouth Avenue, Fall River, MA 02721</p>
+
+<a href="/spaces#westport"><h2>The Wildlife Sanctuary in Westport</h2></a>
+<p>179 Legacy Lane, Westport, MA 02790</p>
+      </div>
+    </div>
+    {% endif %}
+  </div>
+</footer>
+{% if page.layout == "page" %}
+<script>
+  fixPageShort();
+  function fixPageShort() {
+    if (window.innerHeight > document.body.offsetHeight) {
+      document.getElementById("footer").style.position = "fixed";
+      document.getElementById("footer").style.bottom = 0;
+      document.getElementById("footer").style.right = 0;
+      document.getElementById("footer").style.left = 0;
+      document.getElementById("footer").style.width = "100%";
+    }
+  }
+</script>
+{% endif %}
+<!-- End Footer -->

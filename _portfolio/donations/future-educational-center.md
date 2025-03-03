@@ -6,7 +6,7 @@ alt: image alt text
 categories: donations
 description:
 subtitle:
-permalink: /donations/educational-center/
+permalink: /support/educational-center/
 status: future
 ---
 

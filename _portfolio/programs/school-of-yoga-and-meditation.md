@@ -1,6 +1,6 @@
 ---
 title: "School of Yoga and Meditation"
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+subtitle: 
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
@@ -16,11 +16,11 @@ permalink: /programs/school-of-yoga-and-meditation/
 Denial of Self is a root cause of human suffering. Our school of yoga and meditation yokes philosophy and
 movement in a comprehensive way that supports each persons journey in their unfoldment of awareness
 to the multi-faceted Is-ness of who they truly are.
-Education; the principle thread within all we weave.
-Empowerment; integration of knowledge in a practical way for your everyday.
-Inspirit; activating the courage to live the life of your dreams
+- **Education**, the principle thread within all we weave.
+- **Empowerment**, integration of knowledge in a practical way for your everyday.
+- **Inspirit**, activating the courage to live the life of your dreams
 
-The Philosophy of the Eight Guided Paths Spiritual Guidance Center 501c3, offers a introductory Yoga & Meditation Teacher Training and Certification Program. This experiential and theoretical course is designed to prepare each student on safe and ethical practices in yoga and meditation. You will be introduced to ancient traditions, concepts and tools that lead to embodiment of wisdom, balance, contentment, and everlasting peace. This program continuously evolves, just as change is a constant force that asks us to adapt by expanding upon or shed what is already known or believed. 
+The Heron Center offers a introductory Yoga & Meditation Teacher Training and Certification Program. This experiential and theoretical course is designed to prepare each student on safe and ethical practices in yoga and meditation. You will be introduced to ancient traditions, concepts and tools that lead to embodiment of wisdom, balance, contentment, and everlasting peace. This program continuously evolves, just as change is a constant force that asks us to adapt by expanding upon or shed what is already known or believed. 
 
 The philosophy of the program is rooted in the belief that you are both physical(3d) and non physical (non-3d). The most advanced scientific discoveries and theories known to us, at this point, suggest that there are at least 11 dimensions to explain all the observable effects in the Universe. So if there are at least 11 dimensions in the Universe there are at least 11 dimensions in everything that exists within the Universe, including you!  Part of Yoga is to bring unity and awareness to this fact of both physical and nonphysical realities, so you can awaken to all aspects of self, nurture the wisdom within and live in balance with Nature. 
 
@@ -32,12 +32,13 @@ One should note that P.O.T.E.G.P. adheres to teaching through models appropriate
 
 #### Our Next Training & Certification Program will start in October 2024 and end in March 2025.
 
-[Apply Today](https://docs.google.com/document/d/1Jlk2fxSpAl0pd_5OEKFUNVFF3wwi11dFiEwvBTCQf1E/edit)
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/document/d/1Jlk2fxSpAl0pd_5OEKFUNVFF3wwi11dFiEwvBTCQf1E/edit">Apply Today</a>
 
 Please read about our program to see if it would be a good fit for you. If you have any questions or concerns do not hesitate to contact us.
 Program Schedule:
 
 Schedule of training sessions: In October sessions meet on the First and Third weekend. From November – March sessions meet weekly on Sundays & on the First & Third Saturdays (excluding; December 21-30th)
+
 Program Meet Times & Location : 
 
 10:30-2 pm | 179 Legacy Ln Westport MA / The Treehouse Yurt
