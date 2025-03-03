@@ -62,7 +62,7 @@ First Floor, First Door on left upon entry
 
 ### When to Visit / Open Hours:
 
-**We are only open during scheduled programs, classes or events. Please visit our dedicated pages to learn more.**
+**We are only open during scheduled programs, classes or events.**
 
 ---
 
@@ -76,13 +76,13 @@ Rentals are available to artists, healing arts practitioners and members for per
 
 ## Rates
 
-**Members:** | $44 for 120 minutes | $22 for each additional hour
-**Non-Members:** | $22 for 120 minutes | $11 for each additional hour
+**Members:** | $44 for 120 minutes, $22 for each additional hour
+**Non-Members:** | $22 for 120 minutes, $11 for each additional hour
 
 *Rates may vary depending on use and location, individual contracts apply.
 Interested parties must contact us directly and may require in person meeting before space will be made available.*
 
-Email us with your inquiries; Theheroncenter@gmail.com
+Email us with your inquiries at theheroncenter@gmail.com
 <br />
 <br />
 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLScsQ7B7GhsRCEgwd2_hKlRN5WcDioAymXJxCilYt9g00A_X-Q/viewform?usp=sf_link">Booking Request Form</a>

@@ -43,7 +43,7 @@ en: &DEFAULT_EN
         link: "/spaces/#westport"
         desc: "Our Center provides Free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: 
+      - title: BLANK
         desc: 
         icon: 
       - title: "The Studio in Fall River"
