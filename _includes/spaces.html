@@ -14,10 +14,10 @@
     
       <div class="row text-center">
     {% for space in site.data.sitetext[site.locale].spaces.list %}
-          {% if space.title == 'BLANK'%}
+    {% if space.title == 'BLANK'%}
         <div class="col-md-4">
         </div>
-            {% else %}
+    {% else %}
         <div class="col-md-4">
           <a href="{{ space.link }}">
           <span class="fa-stack fa-4x">
@@ -30,6 +30,7 @@
         </a>
           {% if space.desc %}<div class="text-muted">{{ space.desc | markdownify }}</div>{% endif %}
         </div>
+        {% endif %}
     {% endfor %}
       </div>
     
