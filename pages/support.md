@@ -6,25 +6,36 @@ image:
 permalink: /support/
 ---
 
-# Support
+# Support The Heron Center
+
+The Heron Center is a 501(c)(3) Non-Profit Charitable Trust that fosters wellness, creativity and sustainability among individuals and communities. Since 2011 we have been leading unique cultural, wellness and nature-based programs.
+Our Tax ID is 47-6572625
+
+Seeds of kindness grow a wilderness of gratitude.
+
+## Learn More
 - [Volunteer](#volunteer)
 - [Become a Member](#membership)
-- [Donate](#donate)
+- [Fund Ongoing Initiatives](#initiatives)
+- [Planned Giving](#planned-giving)
+- [The Heron Giving Circle](#giving-circle)
 
 ---
 <a id="membership"></a>
-## Become a Member
-
-The Gifts That Keep Giving
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">Become a Member</h2>
+	  <h3 class="section-subheading text-muted">The Gifts That Keep Giving</h3>
+	</div>
+  </div>
+</div>
 
 Recurring gifts are an easy and affordable way for you to make a positive impact on protecting community resources. When you become a monthly or yearly donor, you blaze a path forward for increasing sustainability and ensuring equitable access to education, culture and health in your community!
-Join The Heron Center’s Members
 
 A regular, ongoing stream of revenue is a vital and powerful tool for protecting our vision, mission and values. You can join other dedicated humans by becoming a Member or Sustaining Member of The Heron Center with a recurring gift.  Sustaining Memberships offered for as little as $5 per month. 
 
-Philosophy of The Eight Guided Paths Spiritual Guidance Center, Charitable Trust 501(c)(3)
-D.B.A., The Heron Center
-Tax ID is 47-6572625
+Philosophy of The Eight Guided Paths Spiritual Guidance Center, Charitable Trust 501(c)(3) D.B.A., The Heron Center. Tax ID is 47-6572625
 
 ### Choose your level:
 Membership Levels are inspired by the Keystone Species. Just as Keystone Species are essential to our Earth’s ecosystems, your support is vital to our mission. Learn about the different benefits below and what your Membership & Sustaining Membership is supporting!
@@ -76,3 +87,36 @@ The positive impact you make:
 - Donate
 
 ---
+<a id="initiatives"></a>
+{% include initiatives.html %}
+---
+<a id="planned-giving"></a>
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">Planned Giving</h2>
+	  <h3 class="section-subheading text-muted">Leave a legacy that transcends time!</h3>
+	</div>
+  </div>
+</div>
+
+There are many ways to support that work for people of all means, and at all stages of life. 
+
+{% include portfolio_grid.html category="donations" %}
+
+Should you choose to include The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust in your estate plans, you become a part of our The Heron Giving Circle, which recognizes and celebrates you in many ways throughout the year. The generosity of people like you ensures that land conservation, conscientious Earth stewardship, creative arts and health will thrive in the beautiful South East of Massachusetts and continues for years to come.
+
+Please notify us if you’ve included us in your estate plans so we can welcome you to [The Heron Giving Circle](#giving-circle), which recognizes and celebrates you in many ways throughout the year. 
+
+#### The Heron Giving Circle
+
+Caring for our community beyond one’s lifetime is a true mark of a great society, and is the origins of our story through the generosity of Greg Squillante and his family. The Heron Giving Circle is a special group of donors who have made the selfless decision to include the The Philosophy of the Eight Guided Paths Spiritual Guidance Center in their estate planning. The people listed below have decided to extend their love for this community beyond their lifetimes, creating a positive impact for generations to come.
+
+*italics indicate deceased members*
+
+- *Greg Squillante*
+- Jo Ann Squillante & The Squillante Family Trust
+- Peter Bogle & Karin Wood
+
+#### Have questions or want to learn more?
+We welcome all inquiries. Please email Jessica Howard, executive director, or call her at 774-264-0786, to help you achieve your philanthropic goals. All conversations are confidential.

@@ -8,11 +8,6 @@ description:
 subtitle:
 permalink: /donations/educational-center/
 status: future
-
-caption: #what displays in the portfolio grid:
-  title: Example
-  subtitle: subtitle
-  thumbnail: https://place-hold.it/400x300
 ---
 
 

@@ -51,6 +51,24 @@ en: &DEFAULT_EN
         desc: "The Studio is home to diverse educational programs, classes and events that support our mission."
         icon: fas fa-laptop
 
+  initiatives:
+    title: "Fund Ongoing Initiatives"
+    text: "The Gifts That Keep Giving. Donate via PayPal."
+    section: services
+    list:
+      - title: "Community Programs"
+        link: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2DEKST7Z893VQ&source=url#"
+        desc: "Our Community Programs are offered free of charge to the public. Visit our [Community Programs](/programs/) page for more information about these services. Donate to these programs to ensure wellness is affordable to all."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Scholarship Program"
+        link: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CNR3XT9FT2HSQ&source=url#"
+        desc: "Each year we offer a 200hr [Yoga Teacher Training Course](/programs/school-of-yoga-and-meditation/) that prepares students on ethical practices and instruction as well as a means towards holistic living and liberation from stress. Donate to our Scholarship fund to ensure those with financial hardship can participate in our program!"
+        icon: fas fa-laptop
+      - title: "General Fund"
+        link: "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=2JK3X5WED9KJ4&source=url#"
+        desc: "Our General Fund directly supports our budget for supplies, utilities and maintenance and other expenses generated month to month."
+        icon: fab fa-markdown
+
   portfolio:
     title: 
     text:
