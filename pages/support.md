@@ -38,40 +38,65 @@ A regular, ongoing stream of revenue is a vital and powerful tool for protecting
 Philosophy of The Eight Guided Paths Spiritual Guidance Center, Charitable Trust 501(c)(3) D.B.A., The Heron Center. Tax ID is 47-6572625
 
 ### Choose your level:
-Membership Levels are inspired by the Keystone Species. Just as Keystone Species are essential to our Earth’s ecosystems, your support is vital to our mission. Learn about the different benefits below and what your Membership & Sustaining Membership is supporting!
+Membership Levels are inspired by the Keystone Species. Just as Keystone Species are essential to our Earth’s ecosystems, your support is vital to our mission. Learn about the different benefits below and what your Membership & Sustaining Membership is supporting! Toggle a Membership Level to learn more.
 
-#### Aster Level ($5/Month or $60/yearly): 
-- FREE access to the Wildlife Sanctuary and exclusively the Treehouse Yurt (when not booked for programs). Visit daily from dawn to dusk – all year round. *For personal use of Treehouse Yurt, please contact us to ensure space is available. Winter availability is limited.* 
-- Free T-Shirt
-- Free Spiritual Guidance (meetings must be requested).
-- Free Tent Camping (By permission)
-- 20%-50% Discount to Eligible Programs hosted by The Heron Center
+<details>
+	<summary><h4>Aster Level ($5/Month or $60/yearly)</h4></summary>
+	<ul>
+<li>FREE access to the Wildlife Sanctuary and exclusively the Treehouse Yurt (when not booked for programs). Visit daily from dawn to dusk – all year round. For personal use of Treehouse Yurt, please contact us to ensure space is available. Winter availability is limited.</li>
+<li>Free T-Shirt</li>
+<li>Free Spiritual Guidance (meetings must be requested).</li>
+<li>Free Tent Camping (By permission)</li>
+<li>20%-50% Discount to Eligible Programs hosted by The Heron Center</li>
+</ul>
+</details>
 
-#### Goldenrod Level ($10/Month or $120/yearly): 
-- Same as Aster Level Plus:
-- 10% Discount on Space Rentals
+<details>
+	<summary><h4>Goldenrod Level ($10/Month or $120/yearly) </h4></summary>
+<ul>
+<li>Same as Aster Level</li>
+<li>10% Discount on Space Rentals</li>
+	</ul>
+</details>
 
-#### Sunflower Level ($15/Month or $180/yearly): 
-- Same as Aster Level Plus:
-- 20% Discount on Space Rentals
+<details>
+	<summary><h4>Sunflower Level ($15/Month or $180/yearly)</h4></summary>
+		<ul>
+<li>Same as Aster Level</li>
+<li>20% Discount on Space Rentals</li>
+	</ul>
+</details>
 
-#### Willow Level ($30/Month or $360/yearly): 
-- Same as Sustaining Member Benefits Plus:
-- Free Tent Camping & or Overnight Retreats in the Treehouse Yurt (when available & by appointment)
-- 20-50% Discount & may include FREE Access to Eligible Programs hosted by The Heron Center. View Programs
-- 50% Discount on Space Rentals
-- 10% off partnering organizations / individuals. See the list of participating partners.
-- 20% Discount on Use of The Amethyst Healing Far-Infrared Mat (coming soon… Sauna & Artist Nook)  
+<details>
+	<summary><h4>Willow Level ($30/Month or $360/yearly)</h4></summary>
+		<ul>
+<li>Same as Sustaining Member Benefits</li>
+<li>Free Tent Camping & or Overnight Retreats in the Treehouse Yurt (when available & by appointment)</li>
+<li>20-50% Discount & may include FREE Access to Eligible Programs hosted by The Heron Center</li>
+<li>50% Discount on Space Rentals</li>
+<li>10% off partnering organizations / individuals. See the list of participating partners</li>
+<li>20% Discount on Use of The Amethyst Healing Far-Infrared Mat (coming soon… Sauna & Artist Nook)</li>  
+	</ul>
+</details>
 
-#### Birch Level  ($45/Month or $540/yearly): 
-- Same as Willow Level Plus:
-- 15% off partnering organizations / individuals. See the list of participating partners.
-- 35% Discount on Use of The Amethyst Healing Far-Infrared Mat (coming soon… Sauna & Artist Nook)
 
-#### Oak Level  ($60/Month or $720/yearly): 
-- Same as Willow Level Plus:
-- 20% off partnering organizations / individuals. See the list of participating partners.
-- 50% Discount on Use of The Amethyst Healing Far-Infrared Mat, plus 2 free uses per month. (coming soon… Sauna & Artist Nook)
+<details>
+	<summary><h4>Birch Level  ($45/Month or $540/yearly)</h4></summary>
+		<ul>
+<li>Same as Willow Level</li>
+<li>15% off partnering organizations / individuals. See the list of participating partners</li>
+<li>35% Discount on Use of The Amethyst Healing Far-Infrared Mat (coming soon… Sauna & Artist Nook)</li>
+	</ul>
+</details>
+
+<details>
+	<summary><h4>Oak Level  ($60/Month or $720/yearly)</h4></summary>
+		<ul>
+<li>Same as Willow Level</li>
+<li>20% off partnering organizations / individuals. See the list of participating partners</li>
+<li>50% Discount on Use of The Amethyst Healing Far-Infrared Mat, plus 2 free uses per month. (coming soon… Sauna & Artist Nook)</li>
+	</ul>
+</details>
 
 Monthly or Yearly membership fees will be automatically withdrawn from your bank account. Thank You! 
 
