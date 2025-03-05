@@ -2,7 +2,7 @@
 {% for project in site.portfolio %}
 <div
   class="portfolio-modal modal fade"
-  id="p{{ forloop.index }}"
+  id="{{ project.permalink }}"
   tabindex="-1"
   role="dialog"
   aria-hidden="true"

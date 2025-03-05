@@ -9,6 +9,37 @@ document.getElementById("page-top").className="bg-light";
 </script>
 {% endif %}
 
+
 <div class="container" id="pagecontainer">
+
+{% if page.categories %}
+<h2 class="text-uppercase">{{ page.title }}</h2>
+ <p class="item-intro text-muted">{{ page.when }}</p>
+
+{%- if page.contact -%}
+<p class="item-intro text-muted">Contact {{ page.contact }}</p>
+{%- endif -%}
+
+{%- if page.location=="fall river"-%}
+<p class="item-intro text-muted">Location: 187 Plymouth Ave, Fall River MA 02721* Durfee Mills * Building 8, Entrance 8A * First Floor, First Door on left upon entry</p>
+{%- elsif page.location=="westport"-%}
+<p class="item-intro text-muted">Location: 179 Legacy Lane, Westport MA 02790</p>
+{%- endif -%}
+
+{%- if page.yurt-%}
+<p class="item-intro text-muted">The Yurt at our Wildlife Sanctuary is accessible by stairs only. When outdoor temperatures drop below 25 degrees or if it is snowing, classes are automatically canceled.</p>
+{%- endif -%}
+
+{%- if page.tuition-%}
+<p class="item-intro text-muted">Cost: {{ page.tuition }}</p>
+{%- endif -%}
+
+<img
+                class="img-fluid d-block mx-auto"
+                src="{{ page.image }}"
+                alt="{{ page.alt }}"
+              />
+{% endif %}
+
 {{ content }}
 </div>
