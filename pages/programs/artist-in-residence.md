@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/artist-in-residence/
+imagefolder: "programs/artist-in-residence/"
 ---
 
 Our Center sponsors the Artists by allocating free space for rehearsals and or performances. To apply to this program, you must contact us for an interview.

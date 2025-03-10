@@ -43,3 +43,8 @@ document.getElementById("page-top").className="bg-light";
 
 {{ content }}
 </div>
+
+{%- if page.imagefolder -%} 
+{% assign folder = page.imagefolder %}
+{% include my-gallery.html folder = folder %}
+{%- endif -%}

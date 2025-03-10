@@ -3,7 +3,8 @@ layout: page
 permalink: /about/
 title: Classes
 description: 
-image: 
+image:
+imagefolder: /about
 ---
 # About The Heron Center
 

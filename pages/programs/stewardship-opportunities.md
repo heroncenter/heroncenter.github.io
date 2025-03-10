@@ -9,4 +9,5 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/stewardship-opportunities/
+imagefolder: /programs/stewardship-opportunities/
 ---

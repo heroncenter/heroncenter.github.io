@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/volunteering/
+imagefolder: /programs/volunteering/
 contact: Ashley (she/her), outreach.theheroncenter@gmail.com
 ---
 

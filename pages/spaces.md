@@ -23,6 +23,8 @@ Since 2012, the Squillante Family Trust has bequeathed our mission with 22 acres
 Education is an integral part of ensuring sustainability and wellness. Our Center provides Free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences.
 <br />
 
+{% include my-gallery.html folder="westport" %}
+
 ### What's outside?
 <br />
 
@@ -46,6 +48,8 @@ Education is an integral part of ensuring sustainability and wellness. Our Cente
 ## The Studio is home to diverse educational programs, classes and events that support our mission.
 
 The Studio is home to diverse educational programs, classes and events that support our mission. Located on the first floor of the Historic Durfee Mills, our studio atmosphere is bright, spacious and welcoming. We first opened our doors in October of 2011 and feel blessed to remain part of the SouthCoast Community.
+
+{% include my-gallery.html folder="fallriver" %}
 
 ### What’s inside?
 
@@ -73,6 +77,8 @@ First Floor, First Door on left upon entry
 # Want to Book Our Spaces For Your Event?
 
 Rentals are available to artists, healing arts practitioners and members for personal use and for public and or private services.
+
+{% include my-gallery.html folder="rentals" %}
 
 ## Rates
 

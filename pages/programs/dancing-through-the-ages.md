@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/dancing-through-the-ages/
+permalink: /programs/dancing-through-the-ages/
 contact: theheroncenter@gmail.com
 ---
 

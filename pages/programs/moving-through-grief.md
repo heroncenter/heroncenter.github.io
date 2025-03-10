@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/moving-through-grief/
+imagefolder: /programs/moving-through-grief/
 ---
 
 

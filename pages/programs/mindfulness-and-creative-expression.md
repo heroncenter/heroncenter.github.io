@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/mindfulness-and-creative-expression/
+imagefolder: /programs/mindfulness-and-creative-expression/
 ---
 
 

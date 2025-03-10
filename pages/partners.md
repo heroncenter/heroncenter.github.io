@@ -4,6 +4,7 @@ title: Partners
 description: 
 image: 
 permalink: /partners/
+imagefolder: /partners/
 ---
 # Community Partners
 

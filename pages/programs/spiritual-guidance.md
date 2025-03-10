@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/spiritual-guidance/
+imagefolder: /programs/spiritual-guidance/
 contact: Jessica (she/her) by email at theheroncenter@gmail.com
 ---
 

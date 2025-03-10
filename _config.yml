@@ -33,6 +33,9 @@ analytics:
 collections:
   portfolio:
 
+imagesurl: "/assets/img/"
+thumbsurl: "/assets/img/thumbs/"
+
 markdown: kramdown
 
 plugins:

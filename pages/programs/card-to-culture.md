@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/card-to-culture/
+imagefolder: /programs/card-to-culture/
 contact: Jessica, 774-264-0786 or email theheroncenter@gmail.com
 ---
 

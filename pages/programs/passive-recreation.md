@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/passive-recreation/
+imagefolder: "programs/passive-recreation/"
 ---
 
 Our Wildlife Sanctuary 

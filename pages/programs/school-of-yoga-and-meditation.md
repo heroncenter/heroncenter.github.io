@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/school-of-yoga-and-meditation/
+imagefolder: /programs/school-of-yoga-and-meditation/
 ---
 
 ## School of Yoga & Meditation 

@@ -10,6 +10,7 @@ location: westport
 contact: Ashley, outreach@theheroncenter@gmail.com
 yurt: true
 permalink: /programs/amethyst-healing-mat/
+imagefolder: "programs/amethyst-healing-mat/"
 ---
 
 Enjoy the healing energies of the mat within the tranquil atmosphere of our Treehouse Yurt.
