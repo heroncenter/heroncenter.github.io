@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Open Mic For Creatives"
-subtitle: An intimate space to share your Creativity in our Treehouse Yurt!.
+subtitle: An intimate space to share your Creativity in our Treehouse Yurt!
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: events

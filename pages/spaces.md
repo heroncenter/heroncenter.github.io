@@ -27,15 +27,14 @@ Education is an integral part of ensuring sustainability and wellness. Our Cente
 
 ### What's outside?
 <br />
-
-22 acres of Riparian Biome with fields, meadows, trails, wildlife ponds and more to explore) | The Yurt (round house) in Westport (452 sqft / 24 ft in circumference) | The Tiered Garden Stage in Westport (upper stage 6×8 and lower concrete patio 22×44)
+The Wildlife Sanctuary contains 22 acres of riparian biome with fields, meadows, trails, wildlife ponds and more to explore). Our Center provides free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences. Programs, classes, and events take place at the Treehouse Yurt (round house) or on the Tiered Garden Stage.
 
 <br >
 ### Address: 
-179 Legacy Ln, Westport MA 02790
+179 Legacy Lane, Westport MA 02790
 
 ### When to Visit / Open Hours: 
-**We are only open during scheduled programs, classes or events.** 
+Open dawn to dusk for passive recreation. Programs, classes, and events are at the scheduled time. 
 
 ---
 <a id="fall-river"></a>
@@ -55,7 +54,6 @@ The Studio is home to diverse educational programs, classes and events that supp
 
 We have a lounge area and library loan, a puppet studio, multi-purpose sprung floors for safe and sustainable movement practices, smaller adjoining rooms and an area dedicated to local artists.
 
-Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22’x40’) | Massage room 160 sq ft | Meditation or multi-use room; 440sqft
 <br >
 
 ### Address
@@ -76,14 +74,23 @@ First Floor, First Door on left upon entry
 
 # Want to Book Our Spaces For Your Event?
 
-Rentals are available to artists, healing arts practitioners and members for personal use and for public and or private services.
+Rentals are available to artists, healing arts practitioners and members for personal use and for public and or private services. Each space offers unique features for rentals.
+
+## The Wildlife Sanctuary in Westport
+Features:  
+The Yurt (round house) in Westport (452 sqft / 24 ft in circumference) | The Tiered Garden Stage in Westport (upper stage 6×8 and lower concrete patio 22×44)
+
+## The Studio in Fall River
+Features:
+Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22’x40’) | Massage room 160 sq ft | Meditation or multi-use room; 440sqft
 
 {% include my-gallery.html folder="rentals" %}
 
 ## Rates
 
-**Members:** | $44 for 120 minutes, $22 for each additional hour
-**Non-Members:** | $22 for 120 minutes, $11 for each additional hour
+**Members:** $22 for 120 minutes, $11 for each additional hour
+
+**Non-Members:** $44 for 120 minutes, $22 for each additional hour
 
 *Rates may vary depending on use and location, individual contracts apply.
 Interested parties must contact us directly and may require in person meeting before space will be made available.*
@@ -94,7 +101,7 @@ Email us with your inquiries at theheroncenter@gmail.com
 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLScsQ7B7GhsRCEgwd2_hKlRN5WcDioAymXJxCilYt9g00A_X-Q/viewform?usp=sf_link">Booking Request Form</a>
 <br />
 <br />
-We understand that time and space is integral to the creation and development of your artistic endeavors. Money is often a limiting factor to an artists vision. We aim to break down the fiscal barrier to enable the creation of art and/or facilitate a place for you to offer your practices. Talk to us about concerns or inquiry about our Artist in Residency Program
+We understand that time and space is integral to the creation and development of your artistic endeavors. Money is often a limiting factor to an artists vision. We aim to break down the fiscal barrier to enable the creation of art and/or facilitate a place for you to offer your practices. Talk to us about concerns or inquiry about our [Artist in Residency Program]({{ site.baseurl }}/programs/artist-in-residence/).
 
 
 

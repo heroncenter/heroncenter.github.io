@@ -108,6 +108,17 @@ The positive impact you make:
 ---
 <a id="initiatives"></a>
 {% include initiatives.html %}
+
+---
+<a id="capital-projects"></a>
+<div class="container">
+  <div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">Capital Projects</h2>
+	  <h3 class="section-subheading text-muted">Leave a legacy that transcends time!</h3>
+	</div>
+  </div>
+</div>
 ---
 <a id="planned-giving"></a>
 <div class="container">

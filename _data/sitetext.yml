@@ -14,7 +14,7 @@ en: &DEFAULT_EN
     title: Fostering Wellness, Creativity, and Sustainability
     text: The Heron Center
     button: Learn More
-    buttonlink: "/about/"
+    buttonlink: "#about"
 
   services:
     title: "Get Involved"
@@ -139,7 +139,8 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "We foster wellness, creativity, and sustainability"
-    body: "Founded in 2011, We are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit. "
+    body: "Founded in 2011, We are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit."
+    matter: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex urna, faucibus quis ex ut, facilisis rhoncus augue. Fusce a enim id est sollicitudin tincidunt sit amet non velit. Donec elit enim, placerat facilisis nisi vel, suscipit molestie velit. Maecenas tincidunt a ex sit amet posuere. Curabitur nec ipsum bibendum, placerat risus eget, eleifend urna. Mauris in rutrum nulla. Aliquam consectetur lacinia orci ac scelerisque. Nulla facilisi. Nulla consequat hendrerit consectetur. Aliquam non mi interdum, interdum enim non, rhoncus elit. "
     section: about
 
   clients:
@@ -179,7 +180,7 @@ en: &DEFAULT_EN
         role: "Grounds Superintendent, Board Member"
         image: assets/img/team/500x500.jpg
       - name: "Jayne Darcy"
-        role: "Marketing Speciliast, Board Member"
+        role: "Marketing Specialist, Board Member"
         image: assets/img/team/500x500.jpg
       - name: "Juliette Terry"
         role: "Accessibility Coordinator, Board Member"
