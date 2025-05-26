@@ -40,15 +40,15 @@ en: &DEFAULT_EN
     section: spaces
     list:
       - title: "The Wildlife Sanctuary in Westport"
-        link: "/spaces/#westport"
-        desc: "Our Center provides Free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences."
+        link: "/heron-test-site/spaces/#westport"
+        desc: "Located in Westport, our 22 acre wildlife sanctuary includes diverse features to explore for passive recreation, in addition to our educational programs."
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
       - title: "BLANK"
         desc: 
         icon: 
       - title: "The Studio in Fall River"
-        link: "/spaces/#fall-river"
-        desc: "The Studio is home to diverse educational programs, classes and events that support our mission."
+        link: "/heron-test-site/spaces/#fall-river"
+        desc: "Located on the first floor of the Historic Durfee Mills in Fall River, our studio atmosphere is bright, spacious and welcoming."
         icon: fas fa-laptop
 
   initiatives:
@@ -139,8 +139,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "We foster wellness, creativity, and sustainability"
-    body: "Founded in 2011, We are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit."
-    matter: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam ex urna, faucibus quis ex ut, facilisis rhoncus augue. Fusce a enim id est sollicitudin tincidunt sit amet non velit. Donec elit enim, placerat facilisis nisi vel, suscipit molestie velit. Maecenas tincidunt a ex sit amet posuere. Curabitur nec ipsum bibendum, placerat risus eget, eleifend urna. Mauris in rutrum nulla. Aliquam consectetur lacinia orci ac scelerisque. Nulla facilisi. Nulla consequat hendrerit consectetur. Aliquam non mi interdum, interdum enim non, rhoncus elit. "
+    body: "Founded in 2011, we are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit."
     section: about
 
   clients:
@@ -178,9 +177,6 @@ en: &DEFAULT_EN
         image: assets/img/team/500x500.jpg
       - name: "Colin Walford"
         role: "Grounds Superintendent, Board Member"
-        image: assets/img/team/500x500.jpg
-      - name: "Jayne Darcy"
-        role: "Marketing Specialist, Board Member"
         image: assets/img/team/500x500.jpg
       - name: "Juliette Terry"
         role: "Accessibility Coordinator, Board Member"

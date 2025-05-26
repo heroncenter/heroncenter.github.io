@@ -16,25 +16,25 @@ permalink: /spaces/
 # The Wildlife Sanctuary in Westport
 <br />
 
-## Protecting our natural world is essential to our survival.  Beyond that, it is the source for inspiration and beauty. 
+## Protecting our natural world is essential to our survival. Beyond that, it is the source for inspiration and beauty.
 <br />
-Since 2012, the Squillante Family Trust has bequeathed our mission with 22 acres in Westport MA. The land we work with is part of a magical Riparian Biome. Riparian biomes are essential ecosystems that support clean air, water and protection from erosion and flooding. We have partnered with N.R.C.S. to implement a Forest Management Plan to enhance ecology, augment conservation practices, and support our pollinators.
+Since 2012, the Squillante Family Trust has bequeathed our mission with 22 acres in Westport MA. The land we work with is part of a magical Riparian Biome. These biomes are essential ecosystems that support clean air, water and provide protection from erosion and flooding. We have partnered with N.R.C.S. to implement a Forest Management Plan to enhance ecology, augment conservation practices, and do more to support our pollinators.
 
-Education is an integral part of ensuring sustainability and wellness. Our Center provides Free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences.
+Education is an integral part of ensuring sustainability and wellness. Our Center provides free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences.
 <br />
 
 {% include my-gallery.html folder="westport" %}
 
 ### What's outside?
 <br />
-The Wildlife Sanctuary contains 22 acres of riparian biome with fields, meadows, trails, wildlife ponds and more to explore). Our Center provides free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences. Programs, classes, and events take place at the Treehouse Yurt (round house) or on the Tiered Garden Stage.
+Features to explore: Forests, vernal streams & pools, meadows, fresh water ponds & more.
 
 <br >
 ### Address: 
 179 Legacy Lane, Westport MA 02790
 
 ### When to Visit / Open Hours: 
-Open dawn to dusk for passive recreation. Programs, classes, and events are at the scheduled time. 
+Open from dawn to dusk for passive recreation, daily through all seasons. Visit the dedicated pages for when educational programs, classes, and events take place.
 
 ---
 <a id="fall-river"></a>
@@ -46,13 +46,13 @@ Open dawn to dusk for passive recreation. Programs, classes, and events are at t
 
 ## The Studio is home to diverse educational programs, classes and events that support our mission.
 
-The Studio is home to diverse educational programs, classes and events that support our mission. Located on the first floor of the Historic Durfee Mills, our studio atmosphere is bright, spacious and welcoming. We first opened our doors in October of 2011 and feel blessed to remain part of the SouthCoast Community.
+Located on the first floor of the Historic Durfee Mills, our studio atmosphere is bright, spacious and welcoming. We first opened our doors in October of 2011 and feel blessed to remain part of the SouthCoast Community.
 
 {% include my-gallery.html folder="fallriver" %}
 
 ### What’s inside?
 
-We have a lounge area and library loan, a puppet studio, multi-purpose sprung floors for safe and sustainable movement practices, smaller adjoining rooms and an area dedicated to local artists.
+We have a lounge area and library loan, an artist maker’s area, multi-purpose sprung floors for safe and sustainable movement practices, smaller adjoining rooms and an area dedicated to local artists.
 
 <br >
 
@@ -74,7 +74,7 @@ First Floor, First Door on left upon entry
 
 # Want to Book Our Spaces For Your Event?
 
-Rentals are available to artists, healing arts practitioners and members for personal use and for public and or private services. Each space offers unique features for rentals.
+Rentals are available for personal use and for public and or private services. Each space offers unique features for rentals.
 
 ## The Wildlife Sanctuary in Westport
 Features:  
@@ -82,7 +82,7 @@ The Yurt (round house) in Westport (452 sqft / 24 ft in circumference) | The Tie
 
 ## The Studio in Fall River
 Features:
-Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22’x40’) | Massage room 160 sq ft | Meditation or multi-use room; 440sqft
+Features: Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22’x40’) | Massage room 160 sq ft | Meditation or multi-use room: 440sqft
 
 {% include my-gallery.html folder="rentals" %}
 
@@ -92,10 +92,9 @@ Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22�
 
 **Non-Members:** $44 for 120 minutes, $22 for each additional hour
 
-*Rates may vary depending on use and location, individual contracts apply.
-Interested parties must contact us directly and may require in person meeting before space will be made available.*
+*Rates may vary depending on the type of use, individual contracts apply. Interested parties must contact us directly and may require in person meeting before space will be made available.*
 
-Email us with your inquiries at theheroncenter@gmail.com
+Email us with your inquiries at outreach.theheroncenter@gmail.com
 <br />
 <br />
 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/forms/d/e/1FAIpQLScsQ7B7GhsRCEgwd2_hKlRN5WcDioAymXJxCilYt9g00A_X-Q/viewform?usp=sf_link">Booking Request Form</a>
