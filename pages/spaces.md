@@ -5,7 +5,6 @@ description:
 image: 
 permalink: /spaces/
 ---
-# Visit Our Spaces
 {% include spaces.html %}
 
 ---
