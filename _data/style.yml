@@ -12,7 +12,7 @@ contact-image: "../img/contact.png"
 # Add custom fonts
 fonts_urls:
     - "https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy"
-    - "https://fonts.googleapis.com/css?family=Kaushan+Script"
+    - "https://fonts.googleapis.com/css?family=Chivo"
     - "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
     - "https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&display=swap"
 
@@ -22,7 +22,7 @@ fonts:
     for: "heading"
   - name: "Kaushan Script"
     for: "script"
-  - name: "Droid Serif"
-    for: "serif"
   - name: "Sorts Mill Goudy"
+    for: "serif"
+  - name: "Chivo"
     for: "body"
