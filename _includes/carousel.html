@@ -4,21 +4,21 @@
 </head>
 <body>
 
-<div class="slideshow-container" style="height:25%">
+<div class="slideshow-container" data-interval="3000" data-ride="carousel">
 
     <div class="mySlides">
       <img src="{{ site.baseurl }}/assets/img/carousel/passive-recreation1.jpg" style="width:100%;opacity:.5;">
-      <div class="text"><img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.logo }}"/></div>
+      <div class="text"><img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.big-logo }}"/></div>
     </div>
 
     <div class="mySlides">
       <img src="{{ site.baseurl }}/assets/img/carousel/passive-recreation32.JPG" style="width:100%;opacity:.5;">
-      <div class="text"><img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.logo }}"/></div>
+      <div class="text"><img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.big-logo }}"/></div>
     </div>
 
     <div class="mySlides">
       <img src="{{ site.baseurl }}/assets/img/carousel/seasonalcelebrations1.JPG" style="width:100%;opacity:.5;">
-      <div class="text"><img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.logo }}"/></div>
+      <div class="text"><img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.big-logo }}"/></div>
     </div>
 
     <a class="prev" onclick="plusSlides(-1)">&#10094;</a>
@@ -60,6 +60,25 @@ function showSlides(n) {
   slides[slideIndex-1].style.display = "block";  
   dots[slideIndex-1].className += " active";
 }
+
+window.onload = function () {
+  let slides = document.getElementsByClassName("mySlides");
+
+
+    setInterval(function () {
+        for (let n = 0; n < slides.length; n++) {
+            if (n + 1 == slides.length) {
+                setTimeout(showSlides(n), 350, slides[n]);
+                break;
+            }
+            if (slides[n].classList.contains('active')) {
+                setTimeout(showSlides(n), 350, slides[n]);
+                break;
+            }
+        }
+    }, 1500);
+};
+
 </script>
 
 </body>
