@@ -71,7 +71,7 @@ First Floor, First Door on left upon entry
 <br />
 <br />
 
-# Want to Book Our Spaces For Your Event?
+# Want to Book Our Spaces For Your Event or Program?
 
 Rentals are available for personal use and for public and or private services. Each space offers unique features for rentals.
 
@@ -87,7 +87,7 @@ Features: Large open studio space approx 2400sqft; with 880 sq ft marley sprung 
 
 ## Rates
 
-**Members:** $22 for 120 minutes, $11 for each additional hour
+**Members or Nonprofits:** $22 for 120 minutes, $11 for each additional hour
 
 **Non-Members:** $44 for 120 minutes, $22 for each additional hour
 

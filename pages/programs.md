@@ -15,4 +15,6 @@ All programs are led by professional experienced educators and are specially cur
 
 {% include portfolio_grid.html category="programs" %}
 
+<br />
+
 **We have designed programs and are currently working with**: Social Emotional & Neurodivergent Classes in the Fall River Public Schools, Adults living with addiction at the Fall River Comprehensive Treatment Center. Want us to design and lead a program for your group? [Contact us](#contact-us)
