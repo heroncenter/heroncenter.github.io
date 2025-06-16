@@ -16,10 +16,9 @@
 	  {% for service in site.data.sitetext[site.locale].services.list %}
         <div class="col-md-4">
           <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+            <img class="rounded-circle img-fluid" src="{{ service.icon | absolute_url }}" alt="placeholder image for service">
           </span>
-          <h4 class="service-heading">{{ service.title | markdownify }}</h4>
+          <h4 style="padding-top:20px;" class="service-heading">{{ service.title | markdownify }}</h4>
           {% if service.desc %}<div class="text-muted">{{ service.desc | markdownify }}</div>{% endif %}
         </div>
 	  {% endfor %}
@@ -44,10 +43,9 @@
   {% for service in site.data.sitetext.services.list %}
       <div class="col-md-4">
         <a href="{{ service.link }}">
-        <span class="fa-stack fa-4x">
-          <i class="fas fa-circle fa-stack-2x text-primary"></i>
-          <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
-        </span>
+        <div class="fa-stack fa-4x">
+          <img class="rounded-circle img-fluid" src="{{ service.icon | absolute_url }}" alt="placeholder image for service">
+        </div>
       </a>
       <a href="{{ service.link }}">
         <h4 class="service-heading">{{ service.title | markdownify }}</h4>

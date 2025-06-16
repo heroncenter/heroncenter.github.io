@@ -2,7 +2,9 @@
 .btn {
   @include heading-font;
   font-weight: 700;
-  color: $primary;
+  color: white;
+  background-color: $primary;
+  border-color: $primary;
 }
 
 .btn-xl {
@@ -13,12 +15,12 @@
 .btn-primary {
   background-color: white;
   border-color: white;
+  color: $primary;
   &:active,
   &:focus,
   &:hover {
     background-color: darken(white, 7.5%) !important;
     border-color: darken(white, 7.5%) !important;
-    color: $primary;
   }
   &:active,
   &:focus {

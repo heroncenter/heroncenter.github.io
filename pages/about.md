@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /about/
-title: Classes
+title: About
 description: 
 image:
 imagefolder: /about
