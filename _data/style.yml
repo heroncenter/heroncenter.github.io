@@ -11,18 +11,18 @@ contact-image: "../img/contact.png"
 
 # Add custom fonts
 fonts_urls:
-    - "https://fonts.googleapis.com/css?family=Sorts+Mill+Goudy"
+    - "https://fonts.googleapis.com/css?family=Merriweather"
     - "https://fonts.googleapis.com/css?family=Chivo"
     - "https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic"
-    - "https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&display=swap"
+    - "https://fonts.googleapis.com/css2?family=Merriweather:ital,opsz,wght@0,18..144,300..900;1,18..144,300..900&display=swap"
 
 # Set custom fonts
 fonts:
-  - name: "Sorts Mill Goudy"
-    for: "heading"
-  - name: "Kaushan Script"
-    for: "script"
-  - name: "Sorts Mill Goudy"
-    for: "serif"
   - name: "Chivo"
+    for: "heading"
+  - name: "Chivo"
+    for: "script"
+  - name: "Merriweather"
+    for: "serif"
+  - name: "Merriweather"
     for: "body"

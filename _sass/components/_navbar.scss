@@ -2,11 +2,11 @@
 #mainNav {
   background-color: #cecece;
   .navbar-toggler {
-    font-size: 12px;
+    font-size: 100%;
     right: 0;
     padding: 13px;
     text-transform: uppercase;
-    color: white;
+    color: black;
     border: 0;
     background-color: #cecece;
     @include heading-font;
@@ -28,11 +28,10 @@
         font-weight: bold;
         padding: 0.75em 0;
         letter-spacing: 1px;
-        color: #203B50;
+        color: #000000;
         @include heading-font;
         &.active,
         &:hover {
-          color: #203B50;
           text-decoration: underline;
         }
       }
