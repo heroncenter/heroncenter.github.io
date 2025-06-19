@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "Programs"
         link: "/programs/"
         desc: "All programs are led by professional experienced educators and are specially curated to teach sustainable tools and practices that people can use throughout their lives."
-        icon: "assets/img/services/programs.png" #find more at https://fontawesome.com/icons
+        icon: "assets/img/services/programs.png"
       - title: "Events"
         link: "/events/"
         desc: "Celebrate creativity and nature during our recurring experiences that educate, empower and inspire"
