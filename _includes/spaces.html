@@ -21,8 +21,9 @@
         <div class="col-md-4">
           <a href="{{ space.link }}">
           <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa-stack-1x fa-inverse"></i>
+            <a href="{{ space.link | absolute_url }}">
+            <img class="rounded-circle img-fluid" src="{{ space.icon | absolute_url }}" alt="placeholder image for service">
+            </a>
           </span>
         </a>
         <a href="{{ space.link }}">

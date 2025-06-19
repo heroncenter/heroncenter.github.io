@@ -42,14 +42,14 @@ en: &DEFAULT_EN
       - title: "The Wildlife Sanctuary in Westport"
         link: "/heron-test-site/spaces/#westport"
         desc: "Located in Westport, our 22 acre wildlife sanctuary includes diverse features to explore for passive recreation, in addition to our educational programs."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: "/assets/img/spaces/westport.png"
       - title: "BLANK"
         desc: 
         icon: 
       - title: "The Studio in Fall River"
         link: "/heron-test-site/spaces/#fall-river"
         desc: "Located on the first floor of the Historic Durfee Mills in Fall River, our studio atmosphere is bright, spacious and welcoming."
-        icon: fas fa-laptop
+        icon: /assets/img/spaces/fallriver.png
 
   initiatives:
     title: "Fund Ongoing Initiatives"
