@@ -5,6 +5,7 @@ description:
 image: 
 permalink: /events/
 imagefolder:
+imagefolder: events-carousel
 ---
 
 # Events

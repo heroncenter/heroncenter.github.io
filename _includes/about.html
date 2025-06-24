@@ -10,6 +10,7 @@
     <div class="row">
       <div class="col-lg-8 mx-auto text-center">
         <div class="large text-muted">{{ site.data.sitetext[site.locale].about.body | markdownify }}</div>
+        <img height="{{ site.logo.height | default: 250 }}" src="{{ site.baseurl }}{{ site.big-logo }}"/>
       </div>
     </div>
 <!--added -->
