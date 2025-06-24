@@ -7,7 +7,7 @@ alt: image alt text
 categories: events
 description:
 subtitle:
-permalink: /events/seasonal-celebrations/
+permalink: /programs/seasonal-celebrations/
 ---
 
 
@@ -18,4 +18,5 @@ In New England, the year naturally unfolds through 8 major seasonal shifts, each
 Take part in timeless traditions.
 
 Our cultural and seasonal events give time to pause, reflect, gather as a community, mark the changes occurring around and within, while providing a gentle rhythm to how we experience the year with the ones we love. All of our seasonal celebrations welcome the whole family to participate and our inclusive to all peoples.
-Experience our Next Event
+
+## [Experience our Next Event]({{ site.baseurl }}/events/)

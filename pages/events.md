@@ -4,8 +4,6 @@ title: Events
 description: 
 image: 
 permalink: /events/
-imagefolder:
-imagefolder: events-carousel
 ---
 
 # Events
@@ -19,10 +17,3 @@ Live Performances, Open Mics for Creatives, Mindfulness, Workshops, Trainings, S
 <br />
 
 # Past Events
-
-{% include events-carousel.html %}
-
-{%- if page.imagefolder -%} 
-{% assign folder = page.imagefolder %}
-{% include my-gallery.html folder = folder %}
-{%- endif -%}

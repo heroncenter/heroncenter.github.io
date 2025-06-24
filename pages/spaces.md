@@ -22,8 +22,6 @@ Since 2012, the Squillante Family Trust has bequeathed our mission with 22 acres
 Education is an integral part of ensuring sustainability and wellness. Our Center provides free access to green space for passive recreation in addition to welcoming the public into our space for educational experiences.
 <br />
 
-{% include my-gallery.html folder="westport" %}
-
 ### What's outside?
 <br />
 Features to explore: Forests, vernal streams & pools, meadows, fresh water ponds & more.
@@ -46,8 +44,6 @@ Open from dawn to dusk for passive recreation, daily through all seasons. Visit 
 ## The Studio is home to diverse educational programs, classes and events that support our mission.
 
 Located on the first floor of the Historic Durfee Mills, our studio atmosphere is bright, spacious and welcoming. We first opened our doors in October of 2011 and feel blessed to remain part of the SouthCoast Community.
-
-{% include my-gallery.html folder="fallriver" %}
 
 ### What’s inside?
 
@@ -82,8 +78,6 @@ The Yurt (round house) in Westport (452 sqft / 24 ft in circumference) | The Tie
 ## The Studio in Fall River
 Features:
 Features: Large open studio space approx 2400sqft; with 880 sq ft marley sprung floor (22’x40’) | Massage room 160 sq ft | Meditation or multi-use room: 440sqft
-
-{% include my-gallery.html folder="rentals" %}
 
 ## Rates
 
