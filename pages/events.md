@@ -17,3 +17,4 @@ Live Performances, Open Mics for Creatives, Mindfulness, Workshops, Trainings, S
 <br />
 
 # Past Events
+{% include events-carousel.html folder = "events-carousel"%}

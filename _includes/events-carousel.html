@@ -1,89 +1,39 @@
-<html lang="en">
+<style>
+       /*! div style */
+  .image-gallery {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fill,minmax(200px, 1fr));
+    justify-content: center;
+    padding: 4px;
+  }
 
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Responsive Carousel</title>
-    <link href=
-"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" 
-          rel="stylesheet">
-</head>
+  .box {
+      flex-basis: 25%;
+      width: 100%;
+      padding: 10px;
+      margin: 2px;
+  }
 
-<body >
-
-    <div class="container mt-5">
-        <div class="row">
-            <div class="col-12 text-center ">
-            </div>
-        </div>
-    </div>
-
-    <div class="container">
-        <div class="row">
-            <div class="col-md-8 offset-md-2">
-                <div id="carouselExampleIndicators" 
-                     class="carousel slide" 
-                     data-bs-ride="carousel">
-                    <div class="carousel-inner">
-                        <div class="carousel-item active">
-                            <img src=
-"{{ site.baseurl }}/assets/img/events/events-carousel/e1.jpg"
-                                class="d-block w-100" 
-                                 alt="Slide 1">
-                        </div>
-
-                        <div class="carousel-item">
-                            <img src=
-"{{ site.baseurl }}/assets/img/events/events-carousel/e2.jpg"
-                                class="d-block w-100" 
-                                 alt="Slide 2">
-                        </div>
-
-                        <div class="carousel-item">
-                            <img src=
-"{{ site.baseurl }}/assets/img/events/events-carousel/e3.jpg"
-                                class="d-block w-100" 
-                                 alt="Slide 4">
-                        </div>
-
-                        <div class="carousel-item">
-                            <img src=
-"{{ site.baseurl }}/assets/img/events/events-carousel/e4.png"
-                                class="d-block w-100" 
-                                 alt="Slide 3">
-                        </div>
-                    </div>
-                    <button class="carousel-control-prev" 
-                            type="button" 
-                            data-bs-target="#carouselExampleIndicators"
-                            data-bs-slide="prev">
-                        <span class="carousel-control-prev-icon" 
-                              aria-hidden="true">
-                          </span>
-                        <span class="visually-hidden">
-                              Previous
-                          </span>
-                    </button>
-                    <button class="carousel-control-next" type="button" 
-                            data-bs-target="#carouselExampleIndicators"
-                            data-bs-slide="next">
-                        <span class="carousel-control-next-icon" 
-                              aria-hidden="true">
-                          </span>
-                        <span class="visually-hidden">
-                              Next
-                          </span>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </div>
-
-    <!-- Bootstrap Bundle with Popper -->
-    <script src=
-"https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js">
-      </script>
-
-</body>
-
-</html>
+  .img-gallery {
+	width: 100%;
+  height: 200px;
+	object-fit: cover;
+  transform: scale(1);
+  transition: all 0.3s ease-in-out;
+  &:hover {
+    transform: scale(1.05);
+  }
+</style>
+<div class ="image-gallery">
+  {% assign sorted = site.static_files | sort: 'date' | reverse %}
+  {% for file in sorted %}
+  {% if file.path contains include.folder %}
+    {% assign filenameparts = file.path | split: "/" %}
+      {% assign filename = filenameparts | last | replace: file.extname,"" %}
+       <div class="box">
+         <img src="{{ site.baseurl }}{{ site.thumbsurl }}{{file.name }} " alt="{{ filename }}"  class="img-gallery" />
+       </div>
+    {% endif %}
+  {% endfor %}
+ </div>

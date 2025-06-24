@@ -32,9 +32,8 @@ analytics:
 
 collections:
   portfolio:
-
-imagesurl: "/assets/img/"
-thumbsurl: "/assets/img/thumbs/"
+  
+thumbsurl: "/assets/img/events/events-carousel/"
 
 markdown: kramdown
 
