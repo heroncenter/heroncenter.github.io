@@ -6,7 +6,6 @@ image: https://place-hold.it/400x300 #main image, can be a link or a file in ass
 alt: image alt text
 categories: classes
 description:
-subtitle:
 permalink: /classes/chair-yoga/
 location: fall river
 when: Mondays & Thursdays 9-10am
