@@ -19,14 +19,14 @@
         </div>
     {% else %}
         <div class="col-md-4">
-          <a href="{{ space.link }}">
+          <a style="color: #203B50" href="{{ space.link }}">
           <span class="fa-stack fa-4x">
             <a href="{{ space.link }}">
             <img class="rounded-circle img-fluid" src="{{ space.icon | absolute_url }}" alt="placeholder image for service">
             </a>
           </span>
         </a>
-        <a href="{{ space.link }}">
+        <a style="color:#203B50" href="{{ space.link }}">
           <h4 class="space-heading">{{ space.title | markdownify }}</h4>
         </a>
           {% if space.desc %}<div class="text-muted">{{ space.desc | markdownify }}</div>{% endif %}
