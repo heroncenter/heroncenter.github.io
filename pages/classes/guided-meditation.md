@@ -2,7 +2,7 @@
 layout: page
 title: "Guided Meditation"
 subtitle: Learn to deepen your practice & understand the mechanics behind meditation
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: guided-meditation/guided-meditation.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: classes
 description:

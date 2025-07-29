@@ -2,7 +2,7 @@
 layout: page
 title: "Passive Recreation"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: passive-recreation/passive-recreationjpg #main image, can be a link or a file in assets/img/portfolio
+image: passive-recreation/passive-recreation.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

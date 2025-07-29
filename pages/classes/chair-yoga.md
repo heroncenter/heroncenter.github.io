@@ -2,7 +2,7 @@
 layout: page
 title: "Chair Yoga"
 subtitle: Empower yourself in Chair Yoga!
-image: classes/chair-yoga/chair-yoga.png
+image: chair-yoga/chair-yoga.png
 alt: image alt text
 categories: classes
 description:

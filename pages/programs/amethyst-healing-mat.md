@@ -2,7 +2,7 @@
 layout: page
 title: "Amethyst Healing Mat"
 subtitle: Enjoy the healing energies of the mat
-image: amethyst-healing-mat/amethyst.png #main image, can be a link or a file in assets/img/portfolio
+image: amethyst-healing-mat/amethyst-healing-mat.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description: Enjoy the healing energies of the mat within the tranquil atmosphere of our Treehouse Yurt.
