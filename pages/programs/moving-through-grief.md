@@ -11,6 +11,7 @@ when: By Request
 permalink: /programs/moving-through-grief/
 imagefolder: /programs/moving-through-grief/
 contact: Jessica, 774-264-0786 or email theheroncenter@gmail.com
+type: wellness
 ---
 
 

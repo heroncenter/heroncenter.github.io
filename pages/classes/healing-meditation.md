@@ -7,13 +7,13 @@ image: healing-meditation/healing-meditation.JPG
 alt: image alt text
 categories: classes
 description:
-subtitle:
 permalink: /classes/healing-meditation/
 location: westport
 yurt: true
 when: Wednesdays 6-6:45 pm
 contact: Jessica, 774-264-0786, theheroncenter@gmail.com 
 tuition: By donation
+type: class
 ---
 
 This is a healing service meditation experience. Practitioners are invited to join together with the intention of opening themselves up to be a vessel for healing energies and prayers. Each sitting will offer an attunement, a way of setting up for the meditation and grounding into the intention of the practice. 20-30 minutes of the practice will be in silence. This allows for each practitioner to move into the power of their own soul’s awareness. 

@@ -9,6 +9,7 @@ description:
 subtitle:
 permalink: /programs/passive-recreation/
 imagefolder: "programs/passive-recreation/"
+type: nature
 ---
 
 Our Wildlife Sanctuary 

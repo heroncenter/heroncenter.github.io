@@ -13,7 +13,17 @@ In Nature, biodiversity matters for a healthy, resilient and stable ecosystem. O
 
 All programs are led by professional experienced educators and are specially curated to teach sustainable tools and practices that people can use throughout their lives.
 
-{% include portfolio_grid.html category="programs" %}
+### Nature
+
+{% include portfolio_grid.html category="programs" type="nature"%}
+
+### Wellness
+
+{% include portfolio_grid.html category="programs" type="wellness"%}
+
+### Culture
+
+{% include portfolio_grid.html category="programs" type="culture"%}
 
 <br />
 

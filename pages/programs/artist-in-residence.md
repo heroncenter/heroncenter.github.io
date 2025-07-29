@@ -10,6 +10,7 @@ subtitle:
 permalink: /programs/artist-in-residence/
 imagefolder: "programs/artist-in-residence/"
 contact: "Jessica, 774-264-0786 or email theheroncenter@gmail.com"
+type: culture
 ---
 
 Our Center sponsors the Artists by allocating free space for rehearsals and or performances. To apply to this program, you must contact us for an interview.

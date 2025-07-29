@@ -1,18 +1,18 @@
 ---
 layout: page
-title: "Midday Yoga at the Yurt"
+title: "Community Yoga"
 subtitle: "Incorporate breath, posture, and relaxation"
 image:  "community-yoga/community-yoga.jpg"
 alt: image alt text
 categories: classes
 description:
-subtitle:
 permalink: /classes/midday-yoga/
 location: westport
 yurt: true
 when: "Sundays 9-10 am"
 contact: Jessica, 774-264-0786, theheroncenter@gmail.com
 tuition: "$10 per person"
+type: class
 ---
 
 

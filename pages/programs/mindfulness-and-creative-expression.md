@@ -10,6 +10,7 @@ subtitle:
 permalink: /programs/mindfulness-and-creative-expression/
 imagefolder: /programs/mindfulness-and-creative-expression/
 contact: Jessica, 774-264-0786 or email theheroncenter@gmail.com
+type: wellness
 ---
 
 

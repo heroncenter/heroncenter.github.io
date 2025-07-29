@@ -9,6 +9,7 @@ description:
 subtitle:
 permalink: /programs/memorial-gardens/
 imagefolder: /programs/memorial-gardens/
+type: nature
 ---
 
 

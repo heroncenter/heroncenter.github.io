@@ -8,6 +8,7 @@ categories: programs
 description:
 subtitle:
 permalink: /programs/seasonal-celebrations/
+type: culture
 ---
 
 

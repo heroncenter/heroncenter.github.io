@@ -23,7 +23,7 @@ Learn more about [Our Values](/about#values)
 Learn more about [ways to give](/ways-to-give/).
 - Discounts for *Tuition-Based Classes* are available to Members, Sustaining Members, Youth & Card to Culture eligible members.
 
-{% include portfolio_grid.html category="classes" %}
+{% include portfolio_grid.html category="classes" type="class" %}
 
 
 

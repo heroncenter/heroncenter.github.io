@@ -9,6 +9,7 @@ description:
 subtitle:
 permalink: /programs/rescue-and-release/
 imagefolder: /programs/rescue-and-release/
+type: nature
 ---
 
 
