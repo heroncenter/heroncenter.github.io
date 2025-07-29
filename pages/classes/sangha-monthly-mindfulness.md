@@ -10,7 +10,7 @@ subtitle:
 permalink: /classes/sangha/
 location: westport
 yurt: true
-when: First Friday, 6-7:30 pm
+when: First Friday, 6-8 pm
 contact: Jessica, 774-264-0786, theheroncenter@gmail.com
 tuition: "$20 per person"
 ---

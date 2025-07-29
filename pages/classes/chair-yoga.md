@@ -8,7 +8,7 @@ categories: classes
 description:
 permalink: /classes/chair-yoga/
 location: fall river
-when: Mondays & Thursdays 9-10am
+when: Thursdays 9-10am
 contact: Jessica, 774-264-0786
 tuition: By donation
 ---

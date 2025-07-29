@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Guided Meditation"
-subtitle: Learn to deepen your practice & understand the mechanics behind meditation
+subtitle: "Learn to deepen your practice & connection to who you truly are!"
 image: guided-meditation/guided-meditation.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: classes

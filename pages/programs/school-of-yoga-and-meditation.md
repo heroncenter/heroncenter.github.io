@@ -13,74 +13,266 @@ imagefolder: /programs/school-of-yoga-and-meditation/
 
 ## School of Yoga & Meditation 
 
-### Awaken to You; Discover The Nature of who you are. 
-“Know Thyself” is the first principle inscribed on the temple of Apollo at Delphi.
-Denial of Self is a root cause of human suffering. Our school of yoga and meditation yokes philosophy and
-movement in a comprehensive way that supports each persons journey in their unfoldment of awareness
-to the multi-faceted Is-ness of who they truly are.
-- **Education**, the principle thread within all we weave.
-- **Empowerment**, integration of knowledge in a practical way for your everyday.
-- **Inspirit**, activating the courage to live the life of your dreams
+Our School of Yoga & Meditation has been offering training and certification since 2012. Please learn more about our program and philosophy to ensure it aligns with you! <https://theheroncenter.org/training/>
 
-The Heron Center offers a introductory Yoga & Meditation Teacher Training and Certification Program. This experiential and theoretical course is designed to prepare each student on safe and ethical practices in yoga and meditation. You will be introduced to ancient traditions, concepts and tools that lead to embodiment of wisdom, balance, contentment, and everlasting peace. This program continuously evolves, just as change is a constant force that asks us to adapt by expanding upon or shed what is already known or believed. 
+Modules of Study for Certification & Tuition Costs:
 
-The philosophy of the program is rooted in the belief that you are both physical(3d) and non physical (non-3d). The most advanced scientific discoveries and theories known to us, at this point, suggest that there are at least 11 dimensions to explain all the observable effects in the Universe. So if there are at least 11 dimensions in the Universe there are at least 11 dimensions in everything that exists within the Universe, including you!  Part of Yoga is to bring unity and awareness to this fact of both physical and nonphysical realities, so you can awaken to all aspects of self, nurture the wisdom within and live in balance with Nature. 
+1.  Certified Jhana 1 Meditation Teacher $640
 
-The program encourages you to find your own voice based on your own direct experiences and the wisdom within to create a practice that is authentic for you. When you become a practitioner you become part of a tradition.  Students will study the tradition of Sadhana through Yoga & Meditation, Pranayama,  Bodywork (experiential anatomy and creative approach to movement/alignment) and P.O.T.E.G.P. principles, philosophy and dhamma (universal lessons).  The Sadhana approach is about discovering a daily spiritual practice that is unique to you and that will enable you to align with nature and awaken to your fullest potential. If you are genuinely open, all of Life can become your teacher. Life’s obstacles & joys are all for your awakening. Join our program, Awaken to You and discover that life is happening for you! 
+2.  Certified Yoga Teacher $1360
 
-One should note that P.O.T.E.G.P. adheres to teaching through models appropriate for one’s current stage of awareness. P.O.T.E.G.P. uses the concept of teaching “models” to signify the point that we are not trying to teach “Divine” or “Complete” truths/concepts. Models are used as tools to help one make progress within its limits(boundaries). This is based on the wisdom that Divine truths cannot be found within the limited use of human words.
+3.  Certified Yoga & Meditation Teacher $2000  (complete Jhana I and Yoga Teacher Training Modules)
 
-### Training and Certification
+4.  Certified Mindfulness Teacher $2080
 
-#### Our Next Training & Certification Program will start in October 2024 and end in March 2025.
+See the Breakdown of Modules below.
 
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="https://docs.google.com/document/d/1Jlk2fxSpAl0pd_5OEKFUNVFF3wwi11dFiEwvBTCQf1E/edit">Apply Today</a>
+Our commitment to you: 
 
-Please read about our program to see if it would be a good fit for you. If you have any questions or concerns do not hesitate to contact us.
-Program Schedule:
+Each student will become knowledgeable in safe and ethical teaching methods of each training module. We will work both experientially and theoretically. Our goal is to help students find their own voice by providing a strong foundation. In addition, for those in good standing, we offer lifetime support. Students in good standing may take the course again (as many times as you like) free of any additional charge. The training modules continue to evolve each year from everyone who has participated and truly the learning that never ceases. We provide the training and knowledge. It is up to each student to integrate the knowledge and demonstrate they can apply the practices. We will do all that we can to help each student meet our standards for safe and ethical teaching.
 
-Schedule of training sessions: In October sessions meet on the First and Third weekend. From November – March sessions meet weekly on Sundays & on the First & Third Saturdays (excluding; December 21-30th)
+### Evaluation & Certification:
 
-Program Meet Times & Location : 
+There will be several exams given to determine each student's progress as well as completing practice teaching hours. Certifications are not guaranteed from taking our training course. Certifications must be earned based on merit; one's ability to integrate and demonstrate the tools given for safe and ethical teaching. Each person must complete all required assignments, practice teaching hours and demonstrate ability to meet our standards in order to receive Certification. 
 
-10:30-2 pm | 179 Legacy Ln Westport MA / The Treehouse Yurt
+Students who complete the training modules, demonstrate to our standards and have paid in full the tuition for the training, will receive the appropriate Certificate based on the Training Module they are participating in.
 
-Program Dates: 
-- October 5th, 6th, 19th & 20th 
-- November 2nd, 3rd, 10th, 16th, 17th & 24th
-- December 7th, 8th & 15th 
-- January 4th, 5th, 12th, 18th, 19th, & 26th 
-- February 1st, 2nd, 9th, 15th, 16th, & 23rd
-- March 1st, 2nd, 9th, 15th, 16th, & 23rd
-- Graduation Ceremonial Weekend | Sat. March 29th & Sun. March 30th
+Overview
 
-Tuition: The entire program costs $3,200. To receive certification and attend the graduation retreat the total balance must be paid by March 23rd 2025. We have several options for making payments including work-trade options; please talk to us to find out which option is best for you
+The program encourages you to find your own voice based on your own direct experiences and the wisdom within to create a practice that is authentic for you. When you become a practitioner you become part of a tradition.  Students will study the ancient traditions of Sadhana through Yoga & Meditation, Pranayama,  Bodywork (experiential anatomy and creative approach to movement/alignment) and P.O.T.E.G.P. principles, philosophy and dhamma (universal lessons).  Sadhana approach is about discovering a daily spiritual practice that is unique to you and that will enable you to align with nature and awaken to your fullest potential. If you are genuinely open, all of Life can become your teacher. Life's obstacles & joys are all for your awakening.  Life is happening for you. Take part in our program and Awaken to You!  
 
-Practice Teach Hours: in addition to the in person learning experience, each student is expected to complete 20 hours of practice teaching.
+* * * * *
 
-Additional Required Practice Hours: Each student is required to attend a minimum of 6 yoga classes with a certified yoga teacher during the duration of the program. Classes at the Heron are provided free of additional charge. All practice hours must be signed off by the teacher leading the class. (A spreadsheet will be provided).
+Breakdown of our Training Modules
 
-Additional bullet points about the program:
-- Past students who completed the program and are in good standing may re-attend our course for FREE. Each year the course evolves, this is a great way to refresh and refine your understanding.
-- We have been offering educational courses, training and certification programs since 2013 â€“ We have a high standard of implementing not just safety but ethics in our teachings. Watch> Program Video
-- We offer opportunities to continue in your yoga teaching education with individual mentoring programs that focus on individual goals.
-- Enrolled students in the Yoga Teacher Training Course during the time of training may attend additional classes at the studio for free of charge, this allows you to practice more!
-- You can create your own payment plan to pay off the tuition. If you are able to pay the entire tuition by the end of November you can receive a 10% discount off the entire tuition.
-- We are a Charitable Non-Profit Organization, if you are in need of financial assistance to attend our training you may ask family and friends to sponsor you through our scholarship program and receive a [tax deductible donation](https://theheroncenter.org/make-a-donation/)!
-- Part of the program includes a Graduation Ceremony & option to partake in a retreat experience at our Wildlife Sanctuary in Westport, M.A. There are no extra fees to attend; this is a great time to immerse yourself in the yogic lifestyle and a perfect way to end the program and begin your next journey!
-- Make up classes are available or assignments will be given if you have to miss a day due to planned Holiday, sick day, etc.
+Jhana 1 Meditation Teacher Module - In Person Trainings Requirements (40hrs in person):
 
-Registration: To register for the program and reserve your spot you must submit a non-refundable payment of $250 with this application no later than September 15th. After your application is reviewed you will be contacted for a follow up interview which will determine your acceptance into our program. Payments are not processed until after the interview and acceptance into the program is determined. Checks may be filled out to POTEGP and mailed to 311 Sanford Road, Westport MA 02790.
+Tuition Cost: $640
 
-Program Goals:  Each student will become knowledgeable and be able to demonstrate safe and ethical teaching methods of Yoga & Meditation. We will explore yoga as a spiritual path working both experientially and theoretically. Our goal is to help students find their own voice by providing a strong foundation.
+-   Ethics of Teaching (6hrs)
 
-Requirements: A desire to learn. No prior yoga experience is needed to attend.
+-   Introduction to Meditation & the 3 main ingredients (6hrs)
 
-Materials Needed
-- BodyStories by Andrea Olsen
+-   Understanding Anchors for Awareness (4hrs)
 
-Evaluation & Certification: There will be several exams given to determine each student’s progress as well as completing 20 practice teaching hours, and at minimum 6 practice hours that take place outside of the course meet times. A final exam will be given to be completed for the graduation ceremony. Certifications are not guaranteed from taking our training course. Certifications must be earned based on merit; one’s ability to integrate and demonstrate the tools given for safe and ethical teaching. The earning of our Certification does not necessarily need to be completed by the graduation date. Each person must complete all required assignments, practice teaching hours and demonstrate ability to meet our standards in order to receive Certification. Learn More About Exams.
-Additional Information about our School and the Yoga Alliance
-Overview:
+-   The Art of Teacher & Creating Meditation Scripts / Holding space for practice (2hrs)
 
-The program encourages you to find your own voice based on your own direct experiences and the wisdom within to create a practice that is authentic for you. When you become a practitioner you become part of a tradition.  Students will study the tradition of Sadhana through Yoga & Meditation, Pranayama,  Bodywork (experiential anatomy and creative approach to movement/alignment) and P.O.T.E.G.P. principles, philosophy and dhamma (universal lessons).  Sadhana approach is about discovering a daily spiritual practice that is unique to you and that will enable you to align with nature and awaken to your fullest potential. If you are genuinely open, all of Life can become your teacher. Life’s obstacles & joys are all for your awakening.  Life is happening for you. Take part in our program and Awaken to You!  
+-   Language of Teaching (verbal & body) (~2hrs)
+
+-   Assignments:
+
+-   Create & Teach 3 different meditation practices.  Feedback after each. 
+
+-   Within the program dates will be scheduled to practice teach with the assignments (~2hrs)
+
+-   Pranayama & Kriyas (~3hrs)
+
+-   Dhamma Studies (12 hrs)
+
+-   Pop of Verbal Quizzes (1hr) - these verbal quizzes will be scattered throughout our in person time together. 
+
+-   Handwritten Exam (~1hr)
+
+-   Dhamma Story (~1hr) - in person hrs for sharing
+
+-   Outside Training hours (9 hrs minimum)
+
+-   Attend 6 hrs (minimum) of meditation classes (either at our center, online or at another center)
+
+-   Practice Teach 3 hrs (minimum)
+
+* * * * *
+
+Certified Yoga Teacher - In Person Trainings Requirements (~80 hrs in person):
+
+Tuition Cost: $1360
+
+-   Ethics of Teaching (6hrs)
+
+-   Introduction
+
+-   Follow up discussion within the training infused in Teaching Method Workshops. 
+
+-   The Art of Instructing (4hrs)
+
+-   Language of Teaching (verbal & body) (~2hrs)
+
+-   Ground Up Teaching Method (2hrs)
+
+-   Types of Practices & Finding Your Voice (3hrs)
+
+-   Traditions of Sadhana, Hatha & Vinyasa (3hrs)
+
+-   How to Clinic Postures Workshop (2hrs)
+
+-   Practice Teach Assignments & feedback ~8hrs
+
+-   Demonstrate Ground Up Method (.5hrs) + feedback
+
+-   Demonstrate Clinic of Asanas (.5hrs)  + feedback
+
+-   Demonstrate 20-30 minute practice with Theme of Concept in Motion (.5hrs)  + feedback
+
+-   Demonstrate 20-30 minute practice with Theme of Peak Pose (.5hrs)  + feedback
+
+-   Demonstrate 20-30 minute practice with Theme of specialty (.5hrs)  
+
+-   Demonstrate 60 minute practice (1hr)  + feedback
+
+-   Trauma Informed Practice (2hrs)
+
+-   Somatic Exercises & Experiential Anatomy (10hrs)
+
+-   Pranayama & Kriyas (3hrs)
+
+-   Dhamma Studies (12hrs)
+
+-   Yoga Humanities & Mindfulness ~ 10hrs
+
+-   Sky vs Weather (2hrs)
+
+-   Law of Cause & Effect (2hrs)
+
+-   Introduction to Meditation (6hrs)
+
+-   Yamas & Niyamas (6rs)
+
+-   Educational Workshops ~ 10hrs
+
+-   Introduction to Ayurveda (4hrs)
+
+-   Demonstration of Practice Teach Assignment (.5hr) + feedback
+
+-   Introduction to Chakras (4hrs)
+
+-   Demonstration of Practice Teach Assignment (.5hr) + feedback
+
+-   Yoga & The Nervous System Workshop & Lab (3hrs)
+
+-   Pop of Verbal Quizzes (1hr) - these verbal quizzes will be scattered throughout our in person time together. 
+
+-   Handwritten Exam (~1hr)
+
+-   Outside Training hours ~ 40hrs
+
+-   Attend 6 hrs (minimum) of asana based classes (either at our center, online or at another center)
+
+-   Practice Teach asana classes 20 hrs 
+
+-   Reading Assignments will be given in Anatomy & Dhamma Studies
+
+Other ADD ONS:
+
+Yoga for Youth / Teaching as an Art in the Schools (8hrs) $128
+
+Dowsing with Chakras (4hrs) $64
+
+History of Yoga (4hrs) $64
+
+Yoga for Bone Density (8hrs) $128
+
+Health at Every Size (4hrs) $64
+
+* * * * *
+
+Certified Yoga & Meditation Teacher - In Person Training Requirements ~115 hrs in person
+
+-   Complete both the Jhana I Meditation and Yoga Teacher Modules
+
+* * * * *
+
+Certified Mindfulness Teacher - In Person Training Requirements ~ 130 hrs in person 
+
+-   To be considered eligible for this training, students must complete the Jhana 1 Training Module. 
+
+-   Dhamma Studies 40hrs
+
+-   Personal dhamma story
+
+-   Creating Safe Spaces 2hrs
+
+-   Demonstration of Practice 1hr
+
+-   Understanding Centers Within & The Observer (8hrs)
+
+-   The Art of Balance (8hrs)
+
+-   Assignments & feedback for witnessing patterns
+
+-   Hearts Desires (8hrs)
+
+-   Assignments & feedback for intention
+
+-   Self Regulation / Parts Studies / Examining Tools (10hrs)
+
+-   Creating your practice for self regulation
+
+-   Demonstration of practices / assignment & feedback
+
+-   4 Components to Life Path (8hrs)
+
+-   Demonstration of practices / assignment & feedback
+
+-   Humanities ~16hrs
+
+-   Sky vs Weather (2hrs)
+
+-   The Serenity Prayer (2hrs)
+
+-   The Delta Effect (2hrs)
+
+-   Yamas & Niyamas (6hrs)
+
+-   Silence Practice (2hr)
+
+-   One Room School House with personal essay (2hrs)
+
+-   The Law of Cause & Effect  (10hrs)
+
+-   Energy is Bi-directional (2hrs)
+
+-   Reiki (4hrs)
+
+-   Personal dhamma story (4hrs)
+
+-   Mindfulness Workshops 20 hrs
+
+-   What is it? Introduction to it and tools for accessing it
+
+-   practice teach assignments & feedback
+
+-   Pop of Verbal Quizzes (1hr) - these verbal quizzes will be scattered throughout our in person time together. 
+
+-   Handwritten Exam (~1hr)
+
+2025-2026 dates:
+
+*Friday 6-9 pm, October 3rd is the orientation & sangha for all new students
+
+*First Fridays, 6-8 pm in Oct, Nov, Dec, Jan & Feb * for all students
+
+Saturdays  11am - 4 pm *for students enrolled in the Yoga Teacher training
+
+October 4, 18 & 25
+
+November 8 & 15
+
+December 6 &13
+
+January 3, 10, 17
+
+February 7 & 14
+
+**reserve Feb 21 & 28 (make ups/ snow dates)
+
+Sundays 2-5:15pm (meditation practice 5:30-6:30pm) *for students enrolled in Yoga & Jhana 1 Meditation Teacher training
+
+October 5, 19, 26
+
+November 2, 9, 16, 23
+
+December 7 & 14
+
+January 4, 11, 18, 25
+
+*reserve Feb 8th & 15th (make ups/ snow dates)

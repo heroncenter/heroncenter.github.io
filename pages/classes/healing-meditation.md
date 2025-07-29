@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Sit In Service / Healing Meditation"
-subtitle: Experience healing energies and prayers
+subtitle: Experience the power of sitting in your awareness and healing prayers
 image: healing-meditation/healing-meditation.JPG
 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
