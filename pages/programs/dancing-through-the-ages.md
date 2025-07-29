@@ -2,7 +2,7 @@
 layout: page
 title: "Dancing Through The Ages"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: dancing-through-the-ages/dancing-through-the-ages.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

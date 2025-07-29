@@ -2,7 +2,7 @@
 layout: page
 title: "Pranayama & Kriyas"
 subtitle: Prepare for deeper states of relaxation
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: pranayama/pranayama.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: classes
 description:

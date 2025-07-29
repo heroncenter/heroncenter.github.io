@@ -3,7 +3,8 @@
 layout: page
 title: "Stewardship Opportunities"
 subtitle:
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: stewardship-opportunities/stewardship.png
+ #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

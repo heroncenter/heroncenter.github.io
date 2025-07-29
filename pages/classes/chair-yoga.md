@@ -2,7 +2,7 @@
 layout: page
 title: "Chair Yoga"
 subtitle: Empower yourself in Chair Yoga!
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: classes/chair-yoga/chair-yoga.png
 alt: image alt text
 categories: classes
 description:
@@ -10,6 +10,7 @@ permalink: /classes/chair-yoga/
 location: fall river
 when: Mondays & Thursdays 9-10am
 contact: Jessica, 774-264-0786
+tuition: By donation
 ---
 
 Empower yourself in Chair Yoga! This yoga and meditation class is designed for individuals dealing with chronic pain, physical limitation or those who just want to take things slow. The class will aid in releasing tension and encouraging freedom from mental and or physical barriers.

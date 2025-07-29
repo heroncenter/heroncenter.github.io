@@ -2,7 +2,7 @@
 layout: page
 title: "Sound Meditation (Little House Yoga & Wellness)"
 subtitle: Settle into a journey of sound
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: sound-meditation/sound-meditation.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: classes
 description:
@@ -16,4 +16,4 @@ tuition: "$18 per person"
 
 Settle into a journey of sound with gongs, ocean drum, singing bowls, rain sticks and chimes.
 
-visit: www.littlehouseyoga.com
+To register please visit:[littlehouseyoga.com](www.littlehouseyoga.com)

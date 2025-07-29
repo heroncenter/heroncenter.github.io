@@ -2,7 +2,7 @@
 layout: page
 title: "Card to Culture"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: card-to-culture/card-to-culture.JPG #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

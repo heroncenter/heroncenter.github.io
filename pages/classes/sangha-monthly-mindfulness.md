@@ -2,7 +2,7 @@
 layout: page
 title: "Sangha / Monthly Mindfulness"
 subtitle: Gather together as a spiritual community
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: sangha-monthly-mindfulness/sangha.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: classes
 description:

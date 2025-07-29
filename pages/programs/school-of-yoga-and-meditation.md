@@ -2,7 +2,7 @@
 layout: page
 title: "School of Yoga and Meditation"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: school-of-yoga-and-meditation/school-of-yoga.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

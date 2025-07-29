@@ -2,7 +2,7 @@
 layout: page
 title: "Moving Through Grief"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: programs/moving-through-grief/moving-through-grief1.jpg #main image, can be a link or a file in assets/img/portfolio
+image: moving-through-grief/moving-through-grief.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

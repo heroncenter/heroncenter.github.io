@@ -2,7 +2,7 @@
 layout: page
 title: "Mindfulness and Creative Expression"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: mindfulness-and-creative-expression/mindfulness.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:

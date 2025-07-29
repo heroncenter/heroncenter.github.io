@@ -2,7 +2,7 @@
 layout: page
 title: "Artist in Residence"
 subtitle:
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: artist-in-residence/artist-in-residence.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: programs
 description:
