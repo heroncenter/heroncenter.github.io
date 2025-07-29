@@ -132,7 +132,7 @@ The positive impact you make:
 
 There are many ways to support that work for people of all means, and at all stages of life. 
 
-{% include portfolio_grid.html category="donations" %}
+{% include portfolio_grid.html category="donations" type="donations" %}
 
 Should you choose to include The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust in your estate plans, you become a part of our The Heron Giving Circle, which recognizes and celebrates you in many ways throughout the year. The generosity of people like you ensures that land conservation, conscientious Earth stewardship, creative arts and health will thrive in the beautiful South East of Massachusetts and continues for years to come.
 

@@ -8,6 +8,7 @@ categories: donations
 description:
 subtitle:
 permalink: /support/donor-advised-fund/
+type: donations
 ---
 
 Gifts from Donor Advised Funds (DAF) are welcomed and accepted at the The Heron Center.If you have a DAF you can direct a grant from your sponsoring donor organization be sent to:

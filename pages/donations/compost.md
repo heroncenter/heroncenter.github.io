@@ -9,6 +9,7 @@ description:
 subtitle:
 status: completed
 permalink: /partners/compost-toilet/
+type: donations
 ---
 
 

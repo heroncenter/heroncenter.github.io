@@ -8,6 +8,7 @@ categories: donations
 description:
 subtitle:
 permalink: /support/beneficiary/
+type: donations
 ---
 
 Naming The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust as a beneficiary on your financial accounts—such as retirement plans, bank accounts, and life insurance policies— costs nothing and doesn’t require a will or lawyer.

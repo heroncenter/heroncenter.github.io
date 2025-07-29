@@ -8,6 +8,7 @@ categories: donations
 description:
 subtitle:
 permalink: /support/charitable-provision/
+type: donations
 ---
 
 The simplest and most common way to include The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust (D.B.A. The Heron Center) in estate planning is by making a charitable provision in your will or trust. This kind of charitable bequest can be a designated dollar amount, a percentage of your estate, or the residual amount remaining in your estate after all other obligations have been made.</p>

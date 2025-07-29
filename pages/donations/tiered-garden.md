@@ -9,6 +9,7 @@ description:
 subtitle:
 permalink: /partners/tiered-garden-and-yurt/
 status: complete
+type: donations
 ---
 
 

@@ -9,6 +9,7 @@ description:
 subtitle:
 permalink: /support/educational-center/
 status: future
+type: donations
 ---
 
 
