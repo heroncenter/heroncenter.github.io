@@ -15,6 +15,8 @@ permalink: /spaces/
 # The Wildlife Sanctuary in Westport
 <br />
 
+{% include westport-carousel.html folder = "westport-carousel"%}
+
 ## Protecting our natural world is essential to our survival. Beyond that, it is the source for inspiration and beauty.
 <br />
 Since 2012, the Squillante Family Trust has bequeathed our mission with 22 acres in Westport MA. The land we work with is part of a magical Riparian Biome. These biomes are essential ecosystems that support clean air, water and provide protection from erosion and flooding. We have partnered with N.R.C.S. to implement a Forest Management Plan to enhance ecology, augment conservation practices, and do more to support our pollinators.
@@ -40,6 +42,7 @@ Open from dawn to dusk for passive recreation, daily through all seasons. Visit 
 
 # The Studio in Fall River
 
+{% include fallriver-carousel.html folder = "fallriver-carousel"%}
 
 ## The Studio is home to diverse educational programs, classes and events that support our mission.
 

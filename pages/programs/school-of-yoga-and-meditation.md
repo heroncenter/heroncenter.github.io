@@ -11,6 +11,7 @@ permalink: /programs/school-of-yoga-and-meditation/
 imagefolder: /programs/school-of-yoga-and-meditation/
 type: wellness
 ---
+<br />
 
 ## School of Yoga & Meditation 
 

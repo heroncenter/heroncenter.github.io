@@ -33,7 +33,9 @@ analytics:
 collections:
   portfolio:
   
-thumbsurl: "/assets/img/events/events-carousel/"
+eventsurl: "/assets/img/events/events-carousel/"
+fallriverurl: "/assets/img/spaces/fallriver/"
+westporturl: "/assets/img/spaces/westport/"
 
 markdown: kramdown
 
