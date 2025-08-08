@@ -85,47 +85,47 @@ en: &DEFAULT_EN
       - title: "Our Humble Beginnings"
         year: "October 2011"
         desc: "Opened Studio Space in Fall River"
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
       - title: "Expanding to Westport"
         year: "August 2012"
         desc: "Squillante Family Trust purchased 22 acres in Westport to expand our mission and construct the Wildlife Sanctuary."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
       - title: "Launching Our School"
         year: "November 2012"
         desc: "Launched our School of Yoga & Meditation Training and Certification Program."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
       - title: "Year of Culture"
         year: "2013"
         desc: "Started our Year of Culture and The Seasons Events. Expanded the Wildlife Santucary with pollinator-friendly tiered gardens and the Yurt."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
       - title: "Acquiring Non-Profit Status"
         year: "October 2014"
         desc: "Granted 501(c)(3) Nonprofit Status & built Greenhouses at the Wildlife Sanctuary."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
       - title: "Building"
         year: "2017"
         desc: "Built eco-toilets for the Wildlife Sanctuary in collaboration with Diman Regional Vocational-Technical High School & Habitat for Humanities."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
         alt: image alt text
       - title: "Installing Our Maypole"
         year: "2018"
         desc: "Installed a Maypole for our annual Beltane/Maypole Ceremony. Established Community Partnerships with Britsol Elders & SSTAR Mental Health Intensive Outpatient Program"
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
         alt: image alt text
       - title: "Expanding the Wildlife Sanctuary"
         year: "2019"
         desc: "Added 12 bird boxes, turtle pond wildlife habitat, and a Living Pool."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
         alt: image alt text
       - title: "Blazing the Trail"
         year: "2020"
         desc: "Established partnership with National Resources Conservation Service. Installed Bat House along the Ancient Way Trail."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
         alt: image alt text
       - title: "Community Partnerships"
         year: "2021-2023"
         desc: "New Community Partners include Bristol Community College, Card to Culture, Fall River Public Schools, For Youth Initiative (Sponsored by the City of Fall River). New Land Stewards establish Beehives and Mandala Permaculture Garden."
-        image: assets/img/timeline/timeline.jpg
+        image: assets/img/timeline/timeline.png
         alt: image alt text
         # you can enforce the alignment
         align: right
