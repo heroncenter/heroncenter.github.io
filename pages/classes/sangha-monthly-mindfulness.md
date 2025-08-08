@@ -18,4 +18,4 @@ type: class
 Gather together as a spiritual community and immerse yourself in the studies of philosophy, history and the practices of meditation. Each week we will begin with a meditation or mindfulness based practice. Afterwards a Dhamma Study will be shared to support an open reflection and insight based group discussion.
 
 *FREE to Youth (18 & under), Members & Alumni of our School of Yoga & Meditation*
-*50% discount for sustainable members & the *Card to Culture program eligible members*
+*50% discount for sustainable members & the *[Card to Culture](/programs/card-to-culture) program eligible members*

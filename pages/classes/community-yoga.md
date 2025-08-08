@@ -19,4 +19,4 @@ type: class
 Experience an all level movement practice that incorporates, breath, postures and relaxation. These classes are led by teachers who are in training or those newly certified and offered at a discounted rate to the community. Take time for your wellness while also supporting new teachers! 
 
 *FREE to Youth (18 & under), members, and Alumni of our School of Yoga & Meditation.*
-*50% discount for sustainable members & the *Card to Culture program eligible members*
+*50% discount for sustainable members & the *[Card to Culture](/programs/card-to-culture) program eligible members*
