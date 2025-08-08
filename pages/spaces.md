@@ -15,7 +15,7 @@ permalink: /spaces/
 # The Wildlife Sanctuary in Westport
 <br />
 
-{% include westport-carousel.html folder = "westport-carousel"%}
+{% include westport-carousel.html folder = "westport"%}
 
 ## Protecting our natural world is essential to our survival. Beyond that, it is the source for inspiration and beauty.
 <br />
@@ -42,7 +42,7 @@ Open from dawn to dusk for passive recreation, daily through all seasons. Visit 
 
 # The Studio in Fall River
 
-{% include fallriver-carousel.html folder = "fallriver-carousel"%}
+{% include fallriver-carousel.html folder = "fallriver"%}
 
 ## The Studio is home to diverse educational programs, classes and events that support our mission.
 
