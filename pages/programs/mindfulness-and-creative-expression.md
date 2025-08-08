@@ -3,7 +3,7 @@ layout: page
 title: "Mindfulness and Creative Expression"
 subtitle: 
 image: mindfulness-and-creative-expression/mindfulness.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A yoga teacher instructs a class outdoors, with the bridge and sunset in the background
 categories: programs
 description:
 subtitle:

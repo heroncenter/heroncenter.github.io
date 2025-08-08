@@ -3,7 +3,7 @@ layout: page
 title: "Memorial Gardens"
 subtitle: 
 image: memorial-gardens/memorial-gardens.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Image of the gates as the Wildlife Sanctuary in Westport
 categories: programs
 description:
 subtitle:

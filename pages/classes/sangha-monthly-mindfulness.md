@@ -3,7 +3,7 @@ layout: page
 title: "Sangha / Monthly Mindfulness"
 subtitle: Gather together as a spiritual community
 image: sangha-monthly-mindfulness/sangha.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A group of yoga students seated in a circle, arms around each other and feet touching
 categories: classes
 description:
 permalink: /classes/sangha/

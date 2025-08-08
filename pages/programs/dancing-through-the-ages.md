@@ -3,7 +3,7 @@ layout: page
 title: "Dancing Through The Ages"
 subtitle: 
 image: dancing-through-the-ages/dancing-through-the-ages.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A dancer is mid-pose while four senior citizens sit in chairs beside her, watching
 categories: programs
 description:
 subtitle:

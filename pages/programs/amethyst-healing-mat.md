@@ -3,7 +3,7 @@ layout: page
 title: "Amethyst Healing Mat"
 subtitle: Relax & Soak in the healing energies
 image: amethyst-healing-mat/amethyst-healing-mat.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: The Amethyst Healing Mat space
 categories: programs
 description: Enjoy the healing energies of the mat within the tranquil atmosphere of our Treehouse Yurt.
 location: westport

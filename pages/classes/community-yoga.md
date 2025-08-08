@@ -3,7 +3,7 @@ layout: page
 title: "Community Yoga"
 subtitle: "Incorporate breath, posture, and relaxation"
 image:  "community-yoga/community-yoga.jpg"
-alt: image alt text
+alt: A group of women perform tree pose in a circle, hands touching
 categories: classes
 description:
 permalink: /classes/midday-yoga/

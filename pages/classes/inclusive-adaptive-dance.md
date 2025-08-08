@@ -2,7 +2,7 @@
 layout: page
 title: "Inclusive & Adaptive Dance"
 subtitle: "Let loose & learn in creative exploration"
-image:inclusive-adaptive-dance/inclusive-adaptivedance.png #main image, can be a link or a file in assets/img/portfolio
+image: inclusive-adaptive-dance/inclusive-adaptivedance.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: classes
 description:

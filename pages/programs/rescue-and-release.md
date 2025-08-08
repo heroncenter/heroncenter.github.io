@@ -3,7 +3,7 @@ layout: page
 title: "Rescue and Release"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: rescue-and-release/rescue-and-release.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A monarch butterfly rests on a person's fingers
 categories: programs
 description:
 subtitle:

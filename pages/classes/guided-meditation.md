@@ -3,7 +3,7 @@ layout: page
 title: "Guided Meditation"
 subtitle: "Learn to deepen your practice & connection to who you truly are!"
 image: guided-meditation/guided-meditation.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Yoga mats set up on the floor of the Yurt at the Wildlife Sanctuary in Westport
 categories: classes
 description:
 permalink: /classes/guided-meditation/

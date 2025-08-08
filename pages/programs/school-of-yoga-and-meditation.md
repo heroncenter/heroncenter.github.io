@@ -3,7 +3,7 @@ layout: page
 title: "School of Yoga and Meditation"
 subtitle: 
 image: school-of-yoga-and-meditation/school-of-yoga.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A group of yoga students sit in a circle outside at the Wildlife Sanctuary in Westport
 categories: programs
 description:
 subtitle:

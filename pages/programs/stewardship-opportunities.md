@@ -5,7 +5,7 @@ title: "Stewardship Opportunities"
 subtitle:
 image: stewardship-opportunities/stewardship.png
  #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: An image of trees in winter with snow on the ground
 categories: programs
 description:
 subtitle:

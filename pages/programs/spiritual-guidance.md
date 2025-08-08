@@ -3,7 +3,7 @@ layout: page
 title: "Spiritual Guidance"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: spiritual-guidance/spiritual-guidance.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A stone is carved with the following phrase - DO NOT GO WHERE THE PATH MAY LEAD. INSTEAD FOLLOW YOUR OWN AND BLAZE A NEW TRAIL.
 categories: programs
 description:
 subtitle:

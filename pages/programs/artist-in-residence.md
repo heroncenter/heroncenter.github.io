@@ -3,7 +3,7 @@ layout: page
 title: "Artist in Residence"
 subtitle:
 image: artist-in-residence/artist-in-residence.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Multiple musicians stand in the yoga studio, mid-conversation
 categories: programs
 description:
 subtitle:

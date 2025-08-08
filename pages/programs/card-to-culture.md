@@ -3,7 +3,7 @@ layout: page
 title: "Card to Culture"
 subtitle: 
 image: card-to-culture/card-to-culture.JPG #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A group of visitors to the Wildlife Sanctuary stand in a circle as they prepare for a Maypole event
 categories: programs
 description:
 subtitle:

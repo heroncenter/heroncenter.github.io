@@ -3,7 +3,7 @@ layout: page
 title: "Sound Meditation (Little House Yoga & Wellness)"
 subtitle: Soften into a journey of sound
 image: sound-meditation/sound-meditation.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A participant being guided through sound meditation
 categories: classes
 description:
 permalink: /classes/sound-meditation/

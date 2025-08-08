@@ -3,7 +3,7 @@ layout: page
 title: "Pranayama & Kriyas"
 subtitle: Cleanse and purify for deeper states of relaxation
 image: pranayama/pranayama.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Looking up via the top of the yurt at the tree branches above
 categories: classes
 description:
 permalink: /classes/pranayama-and-kriyas/

@@ -3,7 +3,7 @@ layout: page
 title: "Chair Yoga"
 subtitle: "Empower yourself in Chair Yoga!"
 image: chair-yoga/chair-yoga.png
-alt: image alt text
+alt: A group of women in a row perform a tree yoga pose, with their arms around each other
 categories: classes
 description:
 permalink: /classes/chair-yoga/

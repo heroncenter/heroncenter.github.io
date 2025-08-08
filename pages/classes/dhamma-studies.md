@@ -3,7 +3,7 @@ layout: page
 title: "Dhamma Studies / Weekly Mindfulness"
 subtitle: "Gather together as a spiritual community"
 image: "dhamma-studies/dhamma-studies.png" #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Inside the yurt at the Wildlife Sanctuary in Westport
 categories: classes
 description:
 permalink: /classes/dhamma-studies/

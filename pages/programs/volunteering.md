@@ -3,7 +3,7 @@ layout: page
 title: "Volunteering"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: volunteering/volunteering.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: Two women stand smiling beside a table, surrounded by the outdoors
 categories: programs
 description:
 subtitle:

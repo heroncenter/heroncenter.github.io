@@ -3,7 +3,7 @@ layout: page
 title: "Passive Recreation"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: passive-recreation/passive-recreation.png #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+alt: A road in the forest leading visitors to the Wildlife Sanctuary in Westport
 categories: programs
 description:
 subtitle:
