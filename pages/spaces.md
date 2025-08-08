@@ -90,7 +90,7 @@ Features: Large open studio space approx 2400sqft; with 880 sq ft marley sprung 
 Email us with your inquiries at outreach.theheroncenter@gmail.com
 <br />
 <br />
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="background-color: $primary; color:white;"href="https://docs.google.com/forms/d/e/1FAIpQLScsQ7B7GhsRCEgwd2_hKlRN5WcDioAymXJxCilYt9g00A_X-Q/viewform?usp=sf_link">Booking Request Form</a>
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="background-color:#203B50;color:white;" href="https://docs.google.com/forms/d/e/1FAIpQLScsQ7B7GhsRCEgwd2_hKlRN5WcDioAymXJxCilYt9g00A_X-Q/viewform?usp=sf_link">Booking Request Form</a>
 <br />
 <br />
 We understand that time and space is integral to the creation and development of your artistic endeavors. Money is often a limiting factor to an artists vision. We aim to break down the fiscal barrier to enable the creation of art and/or facilitate a place for you to offer your practices. Talk to us about concerns or inquiry about our [Artist in Residency Program]({{ site.baseurl }}/programs/artist-in-residence/).
