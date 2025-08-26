@@ -1,12 +1,11 @@
 ---
 layout: page
 title: "Seasonal Celebrations"
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+subtitle: 
+image: seasonal-celebrations/seasonal-celebrations.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: Three people in the foreground hold their ribbon to complete the Maypole ceremony
 categories: programs
 description:
-subtitle:
 permalink: /programs/seasonal-celebrations/
 type: culture
 ---
