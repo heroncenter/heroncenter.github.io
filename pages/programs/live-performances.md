@@ -1,9 +1,9 @@
 ---
 layout: page
-title: "Live Events"
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image:  #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+title: "Live Performances"
+subtitle: Liver performances, open mics, celebrations, and more!
+image: live-performances/live=performances.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: People performing at the Wildlife Sanctuary in Westport
 categories: programs
 description:
 subtitle:
@@ -13,5 +13,7 @@ type: culture
 
 
 Live Performances, Open Mics for Creatives, Mindfulness, Workshops, Trainings, Seasonal Celebrations & More
+<br />
 Want to book our space for your live event?
-Learn About Rentals
+<br />
+[Learn About Rentals](/spaces#want-to-book-our-spaces-for-your-event-or-program)
