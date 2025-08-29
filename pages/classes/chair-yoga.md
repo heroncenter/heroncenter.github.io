@@ -18,4 +18,4 @@ Empower yourself in Chair Yoga! This yoga and meditation class is designed for i
 
 Experience Level: All Levels Yoga Class for Youth ages 11 & up Adults; no experience needed to attend. This practice empowers choice by teaching safe sequencing and modifications for individual needs.
 
-Intensity: Gentle to Moderate. Students are given modifications and options to take the practice to their comfort level.
+Intensity: Gentle to Moderate. Students are given modifications and options to take the practice to their comfort level
