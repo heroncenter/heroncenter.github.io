@@ -43,7 +43,7 @@ This license does NOT include any objects or images used in the site or external
 
 The Home page: **pages/index.md**
 
-*   The Carousel: **\_includes/new-carousel.html**. Images need to be listed here and added to the **assets/img/carousel/revised** folder. 
+*   The Carousel: **\_includes/new-carousel.html**. Images need to be listed here and added to the **assets/img/carousel/revised** folder. Image files *must* be 1800x850. 
     
 *   The About Us:  **\_includes/about.html**
     
@@ -105,11 +105,12 @@ type: programs
 
 \---
 
-Below the three dotted lines, add any additional text you would like to appear on the page. Place the image in the **assets/img/programs/\[folder with the name of the program\]**.  
+Below the three dotted lines, add any additional text you would like to appear on the page. 
+Place the image file in the **assets/img/programs/\[folder with the name of the program\]**.  The image *must* be 400x300. 
 
 The Events page: pages/[events.md](http://events.md)
 
-*   The carousel: add new images to the **assets/img/events/events-carousel** folder.
+*   The carousel: add new images to the **assets/img/events/events-carousel** folder. these images can be of any sive. 
     
 
 The Classes page: **pages/classes.md**
@@ -147,6 +148,7 @@ type: class
 
 \---
 
-Below the three dotted lines, add any additional text you would like to appear on the page. Place the image in the **assets/img/classes/\[folder with the name of the class\]**.  
+Below the three dotted lines, add any additional text you would like to appear on the page. 
+Place the image file in the **assets/img/classes/\[folder with the name of the class\]**.  The image *must* be 400x300. 
 
 The Support page: **pages/support.md**

@@ -2,7 +2,7 @@
 layout: page
 title: "Estate Planning: Charitable Provision"
 subtitle:
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
+image: e12.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: donations
 description:
@@ -15,6 +15,4 @@ The simplest and most common way to include The Philosophy of the Eight Guided P
 
 You and your attorney may use this sample language:
 
-```
-“I herby give and bequeath ______ (dollar amount, or percentage, of residual of the estate) to the The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust, 179 Legacy Lane, Westport, MA 02790, for its general purposes.”</i>
-```
+>>> <i>“I herby give and bequeath ______ (dollar amount, or percentage, of residual of the estate) to the The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust, 179 Legacy Lane, Westport, MA 02790, for its general purposes.”</i>
