@@ -8,8 +8,11 @@ permalink: /spaces/
 {% include spaces.html %}
 <br />
 <br />
-<div style="justify-content:center">
+
+<div class="row">
+  <div class="col-lg-12 text-center">
 <a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="background-color:#203B50;color:white;justify-content:center;" href="#rentals">Rental Information</a>
+</div>
 </div>
 
 ---
