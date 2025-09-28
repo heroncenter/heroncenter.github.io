@@ -6,6 +6,8 @@ image:
 permalink: /spaces/
 ---
 {% include spaces.html %}
+<br />
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" href="#rentals">Rentals</a>
 
 ---
 <a id="westport"></a>
