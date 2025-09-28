@@ -9,7 +9,7 @@ permalink: /spaces/
 <br />
 <br />
 <div style="justify-content:center">
-<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="background-color:#203B50;color:white;" href="#rentals">Rental Information</a>
+<a class="btn btn-primary btn-xl text-uppercase js-scroll-trigger" style="background-color:#203B50;color:white;justify-content:center;" href="#rentals">Rental Information</a>
 </div>
 
 ---
