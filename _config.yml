@@ -14,7 +14,7 @@
 # theme: jekyll-agency
 
 url    : "https://heroncenter.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/heron-test-site" # the subpath of your site, e.g. /blog
+# baseurl: "/heron-test-site" # the subpath of your site, e.g. /blog
 
 title      : The Heron Center
 email      : theheroncenter@gmail.com #this is also the email contact forms will go to
@@ -33,7 +33,9 @@ analytics:
 collections:
   portfolio:
   
-thumbsurl: "/assets/img/events/events-carousel/"
+eventsurl: "/assets/img/events/events-carousel/"
+fallriverurl: "/assets/img/spaces/fallriver/"
+westporturl: "/assets/img/spaces/westport/"
 
 markdown: kramdown
 
@@ -45,8 +47,9 @@ facebook:
   publisher:
   admins:
 
-logo: /assets/heron-logo.png
+logo: /assets/heron-text.png
 big-logo: /assets/heron-logo-big.png
+blue-logo: /assets/heron-logo-blue.png
 social:
   name: The Heron Center
   links:

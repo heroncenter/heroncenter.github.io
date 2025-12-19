@@ -2,13 +2,14 @@
 layout: page
 title: "Memorial Gardens"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+image: memorial-gardens/memorial-gardens.png #main image, can be a link or a file in assets/img/portfolio
+alt: Image of the gates as the Wildlife Sanctuary in Westport
 categories: programs
 description:
 subtitle:
 permalink: /programs/memorial-gardens/
 imagefolder: /programs/memorial-gardens/
+type: nature
 ---
 
 

@@ -16,7 +16,7 @@ imagefolder: /about
 </div>
 </section>
 
-Founded in 2011, we are a Nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit.
+Founded in 2011, The Heron Center is a nonprofit 501(c)(3) Charitable Trust dedicated to enriching people and communities through wellness, cultural and nature-based classes & programs. The principal thread woven throughout all we do is to educate the human spirit.
 
 ## Learn More
 - [Our Mission](#mission)
@@ -25,6 +25,7 @@ Founded in 2011, we are a Nonprofit 501(c)(3) Charitable Trust dedicated to enri
 - [Our Story](#story)
 - [Board Members](#board)
 - [Annual Reports](#annual-reports)
+- [Contact Us](#contact-us)
 
 ---
 <section class="page-section" id="mission">
@@ -110,5 +111,25 @@ We believe in multi-generational experiences and providing safe and inclusive sp
 </section>
 
 - 2023: [Report](https://heyzine.com/flip-book/b868e3d514.html)
+
+[Back to Top](#top)
+
+---
+<section class="page-section" id="contact-us">
+<div class="container">
+<div class="row">
+	<div class="col-lg-12 text-center">
+	  <h2 class="section-heading text-uppercase">CONTACT US</h2>
+	  <h3 class="section-subheading text-muted"></h3>
+	</div>
+</div>
+</div>
+</section>
+
+For more information about our offerings, please contact us: 
+
+**Jessica Howard, Executive Director** can be reached at theheroncenter@gmail.com
+
+**Ashley Gallagher, Program Manager** can be reached at outreach.theheroncenter@gmail.com
 
 [Back to Top](#top)

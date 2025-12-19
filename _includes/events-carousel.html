@@ -24,6 +24,7 @@
   &:hover {
     transform: scale(1.05);
   }
+}
 </style>
 <div class ="image-gallery">
   {% assign sorted = site.static_files | sort: 'date' | reverse %}
@@ -32,7 +33,7 @@
     {% assign filenameparts = file.path | split: "/" %}
       {% assign filename = filenameparts | last | replace: file.extname,"" %}
        <div class="box">
-         <img src="{{ site.baseurl }}{{ site.thumbsurl }}{{file.name }} " alt="{{ filename }}"  class="img-gallery" />
+         <img src="{{ site.baseurl }}{{ site.eventsurl }}{{file.name }} " alt="{{ filename }}"  class="img-gallery" />
        </div>
     {% endif %}
   {% endfor %}

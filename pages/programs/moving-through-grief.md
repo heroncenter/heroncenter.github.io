@@ -2,13 +2,16 @@
 layout: page
 title: "Moving Through Grief"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: programs/moving-through-grief/moving-through-grief1.jpg #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+image: moving-through-grief/moving-through-grief.png #main image, can be a link or a file in assets/img/portfolio
+alt: A room of grievers sit in a circle on the floor of a yoga studio
 categories: programs
 description:
 subtitle:
+when: By Request
 permalink: /programs/moving-through-grief/
 imagefolder: /programs/moving-through-grief/
+contact: Jessica, 774-264-0786 or email theheroncenter@gmail.com
+type: wellness
 ---
 
 

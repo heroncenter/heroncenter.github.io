@@ -2,14 +2,15 @@
 layout: page
 title: "Card to Culture"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+image: card-to-culture/card-to-culture.JPG #main image, can be a link or a file in assets/img/portfolio
+alt: A group of visitors to the Wildlife Sanctuary stand in a circle as they prepare for a Maypole event
 categories: programs
 description:
 subtitle:
 permalink: /programs/card-to-culture/
 imagefolder: /programs/card-to-culture/
 contact: Jessica, 774-264-0786 or email theheroncenter@gmail.com
+type: culture
 ---
 
 
@@ -19,8 +20,8 @@ Many of our programs, classes and events are offered tuition free or offered by 
 For our tuition based programs we offer a 50% discount to eligible members of our community as part of the *Card to Culture program.*
 
 Eligibility for 50% discount:
-We offer a 50% discount to Veterans, EBT, WIC, and ConnectorCare cardholders through the *Card to Culture* program.
+We offer a 50% discount to Veterans, EBT, WIC, and ConnectorCare cardholders through the [*Card to Culture*]({{ site.baseurl }}/programs/card-to-culture/) program.
 
 You can reserve ahead and pay in person with QR code or cash/check at 50% off any of our tuition-based [programs](/programs/), [classes](/classes/), and [events](/events/). If you have any questions about how to attend our programs, classes, or events, do not hesitate to reach out to us.
 
-*Mass Cultural Council’s Card to Culture program is a collaboration with the Department of Transitional Assistance, the Department of Public Health’s WIC Nutrition Program, and the Massachusetts Health Connector. See the complete list of participating organizations offering EBT, WIC, and ConnectorCare discounts.*
+*[Mass Cultural Council’s Card to Culture program](https://massculturalcouncil.org/organizations/card-to-culture/) is a collaboration with the Department of Transitional Assistance, the Department of Public Health’s WIC Nutrition Program, and the Massachusetts Health Connector. See the complete list of participanting organizations offering [EBT](https://www.mass.gov/ebt-card-to-culture), [WIC](https://www.mass.gov/info-details/get-discounts-with-your-wic-card), and [ConnectorCare](https://www.mahealthconnector.org/learn/plan-information/connectorcare-plans/connectorcare-card-to-culture) discounts.* 

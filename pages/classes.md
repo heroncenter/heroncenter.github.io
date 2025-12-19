@@ -18,13 +18,12 @@ Learn more about [Our Values](/about#values)
 
 ## Class Information
 
-Registration is Required to Attend Classes, please see details below. *PLEASE RSVP AT MINIMUM 2HRS BEFORE THE START TIME OF THE CLASS, TO ENSURE YOUR REQUEST IS RECEIVED AND SPACE IS AVAILABLE.* **Call or text (774)264-0786 to book your sport or email theheroncenter@gmail.com**. 
-
+Registration is Required</u> to Attend Classes, please see details below. *PLEASE RSVP AT MINIMUM 2HRS BEFORE THE START TIME OF THE CLASS, TO ENSURE YOUR REQUEST IS RECEIVED AND SPACE IS AVAILABLE.* **Call or text 774-264-0786 to book your spot or email [theheroncenter@gmail.com](mailto:theheroncenter@gmail.com). 
 - *Tuition-Free Classes & Programs* are made possible by the support from The Squillante Family Trust, our Members and Donations. Want to support tuition free programs & classes?
-Learn more about [ways to give](/support/).
-- Discounts for *Tuition-Based Classes* are available to Members, Sustaining Members, Youth & Card to Culture eligible members. 
+Learn more about [ways to give](/ways-to-give/).
+- Discounts for *Tuition-Based Classes* are available to Members, Sustaining Members, Youth & Card to Culture eligible members.
 
-{% include portfolio_grid.html category="classes" %}
+{% include portfolio_grid.html category="classes" type="class" %}
 
 
 

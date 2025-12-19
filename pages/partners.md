@@ -10,7 +10,7 @@ imagefolder: /partners/
 
 Helping individuals to develop healthy lifestyles benefits family units and the community as a whole. Our partners and collaborations have included Bristol Aging & Wellness, Inc, Bristol Community College, The Fall River Comprehensive Treatment Center, Community Autism Resources, Marion Council on Aging, SSTAR, People Incorporated, The Fall River YMCA, and The Fall River Public Schools, UMASS Habitat for Humanities among many other organizations and individuals. 
 
-<img class="img-fluid" src="{{ "assets/img/partners/partners.png" | absolute_url }}">
+<img class="img-fluid" src="{{ "assets/img/partners/partners.png" | absolute_url }}" alt="Four women stand in various versions of yoga tree pose">
 
 ## Community Focus and Collaborations
 

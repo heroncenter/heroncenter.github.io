@@ -20,13 +20,11 @@
 $primary: {{ site.data.style.highlight | default: "#fed136" }} !default;
 $white: {{ site.data.style.white | default: "#fff" }} !default;
 $black: {{ site.data.style.black | default: "#000" }} !default;
+$link-color: #203B50 !default;
 
 // Custom Images
 $header-image: "{{ site.data.style.header-image }}";
 $contact-image: "{{ site.data.style.contact-image }}";
-
-// Global CSS
-@import "base/page.scss";
 
 // Components
 @import "components/buttons.scss";
@@ -41,3 +39,6 @@ $contact-image: "{{ site.data.style.contact-image }}";
 @import "layout/team.scss";
 @import "layout/contact.scss";
 @import "layout/footer.scss";
+
+// Global CSS
+@import "base/page.scss";

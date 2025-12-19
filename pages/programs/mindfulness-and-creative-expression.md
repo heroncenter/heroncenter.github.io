@@ -2,13 +2,15 @@
 layout: page
 title: "Mindfulness and Creative Expression"
 subtitle: 
-image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+image: mindfulness-and-creative-expression/mindfulness.jpg #main image, can be a link or a file in assets/img/portfolio
+alt: A yoga teacher instructs a class outdoors, with the bridge and sunset in the background
 categories: programs
 description:
 subtitle:
 permalink: /programs/mindfulness-and-creative-expression/
 imagefolder: /programs/mindfulness-and-creative-expression/
+contact: Jessica, 774-264-0786 or email theheroncenter@gmail.com
+type: wellness
 ---
 
 
