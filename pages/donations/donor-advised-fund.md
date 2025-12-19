@@ -10,7 +10,7 @@ subtitle:
 permalink: /support/donor-advised-fund/
 ---
 
-Gifts from Donor Advised Funds (DAF) are welcomed and accepted at the The Heron Center.If you have a DAF you can direct a grant from your sponsoring donor organization be sent to:
+Gifts from Donor Advised Funds (DAF) are welcomed and accepted at the The Heron Center. If you have a DAF you can direct a grant from your sponsoring donor organization be sent to:
 ```
 Philosophy of the Eight Guided Paths Spiritual Guidance Center
 179 Legacy Lane, Westport, MA 02790

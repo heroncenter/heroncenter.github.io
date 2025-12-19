@@ -1,15 +1,25 @@
 ---
 layout: page
-title: "Tiered Garden & Yurt"
+title: "The Heron Giving Circle"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
 image: https://place-hold.it/400x300 #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
-categories: partners
+categories: donations
 description:
 subtitle:
-permalink: /partners/tiered-garden-and-yurt/
-status: complete
+permalink: /support/heron-giving-circle/
 ---
 
 
-From 2013-2014 over thirty volunteers helped us to build the Tiered Garden and Yurt.  These unique features in our landscape mosaic provide beautiful spaces for people to gather and connect with Nature. The Tiered Garden implements pesticide and chemical free practices and companion planting and permaculture methods for a pollinator friendly habitat. The Yurt is a round building set amidst Oak Trees and hosts many educational programs in addition to offering members a tranquil space for meditation and nature observation. 
+Caring for our community beyond one’s lifetime is a true mark of a great society, and is the origins of our story through the generosity of Greg Squillante and his family. The Heron Giving Circle is a special group of donors who have made the selfless decision to include the The Philosophy of the Eight Guided Paths Spiritual Guidance Center in their estate planning. The people listed below have decided to extend their love for this community beyond their lifetimes, creating a positive impact for generations to come.
+
+*italics indicate deceased members*
+
+- *Greg Squillante*
+- Jo Ann Squillante & The Squillante Family Trust
+- Peter Bogle & Karin Wood
+
+Should you choose to include The Philosophy of the Eight Guided Paths Spiritual Guidance Center Charitable Trust in your estate plans, you become a part of our The Heron Giving Circle. The generosity of people like you ensures that land conservation, conscientious Earth stewardship, creative arts and health will thrive in the beautiful South East of Massachusetts and continues for years to come.
+
+Please notify us if you’ve included us in your estate plans so we can welcome you to The Heron Giving Circle, which recognizes and celebrates you in many ways throughout the year
+
