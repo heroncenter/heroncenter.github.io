@@ -2,7 +2,7 @@
 layout: page
 title: "Estate Planning: Retirement Funds"
 subtitle: 
-image: EstatePlanningRetirementFunds.png #main image, can be a link or a file in assets/img/portfolio
+image: EstatePlanningRetirementFunds.JPG
 alt: image alt text
 categories: donations
 description:
