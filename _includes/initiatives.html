@@ -18,7 +18,7 @@
           <a href="{{ initiative.link }}">
         <span class="fa-stack fa-4x">
           <i class="fas fa-circle fa-stack-2x text-primary"></i>
-          <i class="{{ initiative.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+          <i class="{{ initiative.icon  | absolute_url }}"></i>
         </span>
         </a>
         <a href="{{ initiative.link }}">
@@ -49,7 +49,7 @@
       <div class="col-md-4">
         <span class="fa-stack fa-4x">
           <i class="fas fa-circle fa-stack-2x text-primary"></i>
-          <i class="{{ initiative.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+          <i class="{{ initiative.icon  | absolute_url }}"></i>
         </span>
         <h4 class="initiative-heading">{{ initiative.title | markdownify }}</h4>
         {% if initiative.desc %}<div class="text-muted">{{ initiative.desc | markdownify }}</div>{% endif %}
