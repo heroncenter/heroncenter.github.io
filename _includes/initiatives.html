@@ -16,10 +16,10 @@
     {% for initiative in site.data.sitetext[site.locale].initiatives.list %}
         <div class="col-md-4">
           <a href="{{ initiative.link }}">
-          <span class="fa-stack fa-4x">
-            <i class="fas fa-circle fa-stack-2x text-primary"></i>
-            <i class="fa-stack-1x fa-inverse"></i>
-          </span>
+        <span class="fa-stack fa-4x">
+          <i class="fas fa-circle fa-stack-2x text-primary"></i>
+          <i class="{{ initiative.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+        </span>
         </a>
         <a href="{{ initiative.link }}">
           <h4 class="initiative-heading">{{ initiative.title | markdownify }}</h4>
