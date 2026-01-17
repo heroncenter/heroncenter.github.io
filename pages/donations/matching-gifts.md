@@ -2,8 +2,8 @@
 layout: page
 title: "Matching Gifts"
 subtitle: 
-image: e6.JPG #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+image: matchinggifts #main image, can be a link or a file in assets/img/portfolio
+alt: Five older women posing at the studio
 categories: donations
 description:
 subtitle:

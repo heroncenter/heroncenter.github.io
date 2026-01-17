@@ -2,7 +2,7 @@
 layout: page
 title: "Estate Planning: Charitable Provision"
 subtitle:
-image: e12.jpg #main image, can be a link or a file in assets/img/portfolio
+image: EstatePlanningCharitableProvision.JPG #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: donations
 description:

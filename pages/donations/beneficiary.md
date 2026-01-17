@@ -2,7 +2,7 @@
 layout: page
 title: "Estate Planning: Beneficiary"
 subtitle: 
-image: e11.JPG #main image, can be a link or a file in assets/img/portfolio
+image: EstatePlanningBeneficiary.JPG #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: donations
 description:

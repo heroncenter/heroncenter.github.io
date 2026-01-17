@@ -59,11 +59,11 @@ en: &DEFAULT_EN
       - title: "Community Programs"
         link: "https://www.paypal.com/donate/?hosted_button_id=69HMGZBMS56JQ"
         desc: "Our Community Programs are offered free of charge to the public. Visit our [Community Programs](/programs/) page for more information about these services. Donate to these programs to ensure wellness is affordable to all."
-        icon: /assets/img/initiatives/community_programs.png #find more at https://fontawesome.com/icons
+        icon: /assets/img/initiatives/CommunityPrograms.png #find more at https://fontawesome.com/icons
       - title: "Scholarship Program"
         link: "https://www.paypal.com/donate/?hosted_button_id=FV8N8ESY8FFBN"
         desc: "We have been offering training and certification since 2012. Our goal is to help students find their own voice by providing a strong foundation. We offer Certified Jhana 1 Meditation Teacher ($640), Certified Yoga Teacher ($1360), and Certified Yoga & Meditation Teacher ($2000). Donate to our Scholarship fund to ensure those with financial hardship can participate in our School of Yoga & Meditation!"
-        icon: /assets/img/initiatives/scholarship_program.png
+        icon: /assets/img/initiatives/ScholarshipFund.png
       - title: "General Fund"
         link: "https://www.paypal.com/donate/?hosted_button_id=2JK3X5WED9KJ4"
         desc: "Our General Fund directly supports our budget for supplies, utilities and maintenance and other expenses generated month to month in order to operate and grow our mission."

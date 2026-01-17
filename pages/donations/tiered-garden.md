@@ -2,8 +2,8 @@
 layout: page
 title: "The Heron Giving Circle"
 subtitle: subtitle lorem ipsum dolor sit amet consectetur.
-image: e10.JPG #main image, can be a link or a file in assets/img/portfolio
-alt: image alt text
+image: GivingCircle.JPG #main image, can be a link or a file in assets/img/portfolio
+alt: Beltane celebration
 categories: donations
 description:
 subtitle:
