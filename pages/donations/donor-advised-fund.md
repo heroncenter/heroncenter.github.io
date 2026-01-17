@@ -2,7 +2,7 @@
 layout: page
 title: "Donor Advised Fund"
 subtitle: 
-image: DonorADvisedFund.JPG #main image, can be a link or a file in assets/img/portfolio
+image: donorfund.png #main image, can be a link or a file in assets/img/portfolio
 alt: image alt text
 categories: donations
 description:
