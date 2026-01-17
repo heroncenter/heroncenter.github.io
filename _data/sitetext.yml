@@ -54,12 +54,12 @@ en: &DEFAULT_EN
   initiatives:
     title: "Fund Ongoing Initiatives"
     text: "The Gifts That Keep Giving. Donate via PayPal."
-    section: services
+    section: initiatives
     list:
       - title: "Community Programs"
         link: "https://www.paypal.com/donate/?hosted_button_id=69HMGZBMS56JQ"
         desc: "Our Community Programs are offered free of charge to the public. Visit our [Community Programs](/programs/) page for more information about these services. Donate to these programs to ensure wellness is affordable to all."
-        icon: /assets/img/initiatives/CommunityPrograms.png #find more at https://fontawesome.com/icons
+        icon: /assets/img/initiatives/CommunityPrograms.JPG #find more at https://fontawesome.com/icons
       - title: "Scholarship Program"
         link: "https://www.paypal.com/donate/?hosted_button_id=FV8N8ESY8FFBN"
         desc: "We have been offering training and certification since 2012. Our goal is to help students find their own voice by providing a strong foundation. We offer Certified Jhana 1 Meditation Teacher ($640), Certified Yoga Teacher ($1360), and Certified Yoga & Meditation Teacher ($2000). Donate to our Scholarship fund to ensure those with financial hardship can participate in our School of Yoga & Meditation!"
