@@ -4,7 +4,7 @@ title: "Live Performances"
 subtitle: Liver performances, open mics, celebrations, and more!
 image: live-performances/live=performances.jpg #main image, can be a link or a file in assets/img/portfolio
 alt: People performing at the Wildlife Sanctuary in Westport
-categories: programs
+categories: 
 description:
 subtitle:
 permalink: /programs/live-performances/

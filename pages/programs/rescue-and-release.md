@@ -19,4 +19,4 @@ Educational opportunities help raise awareness about wildlife conservation, habi
 These programs foster community engagement, encouraging people to take an active role in wildlife conservation and promote a sense of responsibility towards the environment with an understanding and a deeper appreciation of our interdependence.
 Conservation efforts promote a culture of compassion, empathy, and environmental stewardship.
 
-Support Rescue and Release programs, for actions that positively impact wildlife conservation, ecosystem health, and human communities, ultimately contributing to a more harmonious coexistence with ourselves and our world. Donate Today!
+Support Rescue and Release programs, for actions that positively impact wildlife conservation, ecosystem health, and human communities, ultimately contributing to a more harmonious coexistence with ourselves and our world. [Donate Today](https://www.paypal.com/donate/?hosted_button_id=2JK3X5WED9KJ4)!

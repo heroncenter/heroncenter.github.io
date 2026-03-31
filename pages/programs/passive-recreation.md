@@ -64,5 +64,5 @@ Any violation will result in immediate revocation of permission to visit. If you
 - Protection & Conservation of Wetlands, Forests, & Meadows – for carbon sequestration, temperature regulation, reduced flood risk and water filtration.
 - Freshwater Habitats – for attracting and supporting wildlife.
 
-Join us in the practices above and be the change that supports a sustainable and harmonious world! Learn more about our Nature’s Whisper’s Project
+Join us in the practices above and be the change that supports a sustainable and harmonious world! Learn more about our [Nature’s Whisper’s Project](https://www.sambabineau.com/projects/natures-whispers)
 

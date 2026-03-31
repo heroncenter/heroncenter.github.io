@@ -16,13 +16,17 @@ type: culture
 Our Center sponsors the Artists by allocating free space for rehearsals and or performances. To apply to this program, you must contact us for an interview.
 Artists of all mediums welcome to apply. 
 
-In 2024 we granted over 150 hours of free space to artists. 
+Each we grant over 150 hours of free space to artists. 
 
 
-## Current Artists in Residence
+## Artists in Residence (past and present)
 
 - Ali Kenner Brodsky & Co – Dance / Choreographer
 - Hooly J Chan – Puppet Maker / Singer Songwriter
+- Shura Barishnakov - Dance / Choreographer
+- Amanda Barbosa - Multidisciplinary / Teaching Artist
+- Aneshia Savion - Dance / Choreographer 
+
 
  
 This program is made possible by the generosity of the Squillante Family Trust.

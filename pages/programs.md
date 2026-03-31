@@ -11,7 +11,7 @@ In Nature, biodiversity matters for a healthy, resilient and stable ecosystem. O
 
 ## Experience Our Diverse Programs
 
-All programs are led by professional experienced educators and are specially curated to teach sustainable tools and practices that people can use throughout their lives.
+All programs are led by experienced educators and are specially curated to teach sustainable tools and practices that people can use throughout their lives.
 
 ### Nature
 
@@ -27,4 +27,4 @@ All programs are led by professional experienced educators and are specially cur
 
 <br />
 
-**We have designed programs and are currently working with**: Social Emotional & Neurodivergent Classes in the Fall River Public Schools, Adults living with addiction at the Fall River Comprehensive Treatment Center. Want us to design and lead a program for your group? [Contact us](#contact-us)
+**We have designed programs and are currently working with**: Social Emotional & Neurodivergent Classes in the Fall River Public Schools, Adults living with addiction at the Fall River Comprehensive Treatment Center. Want us to design and lead a program for your group? [Contact us](https://theheroncenter.org/about/#contact-us)
